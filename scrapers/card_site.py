@@ -14,8 +14,8 @@ from __future__ import annotations
 import re
 from dataclasses import dataclass
 
-from .common import (Fetcher, log, parse_card_attributes, soup, text, to_int,
-                     write_dataset)
+from .common import (Fetcher, log, page_text, parse_card_attributes,
+                     parse_height_inches, soup, text, to_int, write_dataset)
 
 
 @dataclass
@@ -97,6 +97,40 @@ def _roster(page, domain: str) -> list[dict]:
     return players
 
 
+def _bio(page) -> dict:
+    """Height, weight and handedness from the player page's bio line.
+
+    theshowratings prints 'Bats/Throws: Right/Right Height: 6\'7" (201 cm) |
+    Weight: 282 lbs (128 kg)'. maddenratings has no height/weight at all, so
+    those come back None and are filled from ESPN by scrapers/espn.py.
+
+    Baseball handedness uses the THROWING hand, not the batting stance.
+    """
+    body = page_text(page)
+    bats = throws = None
+    match = re.search(r"Bats\s*/\s*Throws:\s*(\w+)\s*/\s*(\w+)", body)
+    if match:
+        bats, throws = match.group(1), match.group(2)
+
+    height = None
+    match = re.search(r"Height:\s*(\d\s*'\s*\d{1,2})", body)
+    if match:
+        height = parse_height_inches(match.group(1))
+
+    weight = None
+    match = re.search(r"Weight:\s*(\d+)\s*lbs", body)
+    if match:
+        weight = int(match.group(1))
+
+    age = None
+    match = re.search(r"(\d{1,2})-year-old", body)
+    if match:
+        age = int(match.group(1))
+
+    return {"height_in": height, "weight_lb": weight, "bats": bats,
+            "throws": throws, "age": age}
+
+
 def _player(page) -> dict:
     """Parse a player page into attributes plus whatever bio we can see."""
     attributes, categories = parse_card_attributes(page)
@@ -117,6 +151,7 @@ def _player(page) -> dict:
             break
 
     return {
+        "bio": _bio(page),
         "name_on_page": text(heading) or None,
         "edition": edition,
         "total_attributes": total,
@@ -173,6 +208,7 @@ def scrape(config: SiteConfig, refresh: bool = False,
             # dashes for every attribute on the source page.
             players_out.append({
                 "unrated": not detail["attributes"],
+                **detail["bio"],
                 "slug": entry["slug"],
                 "name": entry["name"] or detail["name_on_page"],
                 "team": team_name or team_slug,

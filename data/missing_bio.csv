@@ -1,0 +1,156 @@
+sport,team,name,slug,position,overall,age,missing,height_in,weight_lb,unrated
+basketball,Los Angeles Clippers,Yuki Kawamura,yuki-kawamura,PG,70,,both,,,False
+basketball,Charlotte Hornets,Michael Ajayi,michael-ajayi,PF,68,,both,,,False
+football,Green Bay Packers,Zach Tom,zach-tom,RT,87,27,both,,,False
+football,Atlanta Falcons,Jalon Walker,jalon-walker,LEDG,79,22,both,,,False
+football,Los Angeles Rams,Harrison Mevis,harrison-mevis,K,76,24,both,,,False
+football,Houston Texans,Chris Braswell,chris-braswell,REDG,73,24,both,,,False
+football,Philadelphia Eagles,Andy Dalton,andy-dalton,QB,71,38,both,,,False
+football,Seattle Seahawks,Velus Jones,velus-jones,HB,68,29,both,,,False
+football,Chicago Bears,Jonathan Garvin,jonathan-garvin,LEDG,66,27,both,,,False
+football,New Orleans Saints,Jayden Price,jayden-price,CB,66,26,both,,,False
+football,New York Giants,Ryan Miller,ryan-miller,WR,66,26,both,,,False
+football,New York Jets,Kobe King,kobe-king,WILL,66,23,both,,,False
+football,Houston Texans,Bryce Oliver,bryce-oliver,WR,65,26,both,,,False
+football,New Orleans Saints,Kevin Austin Jr,kevin-austin-jr,WR,62,26,both,,,False
+football,Houston Texans,Mark Gronowski,mark-gronowski,QB,61,25,both,,,False
+football,San Francisco 49ers,Patrick Taylor,patrick-taylor,HB,61,28,both,,,False
+football,San Francisco 49ers,Adrian Martinez,adrian-martinez,QB,60,26,both,,,False
+soccer,Manchester City,Nico González,nico-gonzalez-255069,CDM,81,24,both,,,False
+soccer,Fenerbahce,Anderson Talisca,anderson-talisca-212523,CAM,81,32,both,,,False
+soccer,Manchester City,Savinho,savinho-270409,RW,80,22,both,,,False
+soccer,Borussia Dortmund,Giannis Konstantelias,giannis-konstantelias-259633,CAM,79,23,weight,69,,False
+soccer,Fenerbahce,Sofyan Amrabat,sofyan-amrabat-224158,CDM,79,30,both,,,False
+soccer,Aston Villa,Leon Bailey,leon-bailey-229906,RM,77,29,both,,,False
+soccer,Monaco,Thilo Kehrer,thilo-kehrer-226229,CB,77,30,both,,,False
+soccer,Juventus,Mattia Perin,mattia-perin-198009,GK,76,33,both,,,False
+soccer,RB Leipzig,Arthur Vermeeren,arthur-vermeeren-269859,CM,76,21,both,,,False
+soccer,Arsenal,Reiss Nelson,reiss-nelson-231448,RM,75,26,both,,,False
+soccer,PSG,Renato Sanches,renato-sanches-230767,CM,75,29,both,,,False
+soccer,Roma,Anass Salah-Eddine,anass-salah-eddine-268728,LB,75,24,both,,,False
+soccer,Fenerbahce,Dorgeles Nene,nene-dorgeles-260236,RM,75,23,both,,,False
+soccer,Benfica,Bruma,bruma-211368,LW,75,31,both,,,False
+soccer,Galatasaray,Victor Nelsson,victor-nelsson-235658,CB,74,28,both,,,False
+soccer,Stuttgart,Chema,chema-andres-75056,CDM,74,21,both,,,False
+soccer,Stuttgart,Badredine Bouanani,badredine-bouanani-270465,RM,74,21,both,,,False
+soccer,Porto,Stephen Eustáquio,stephen-eustaquio-242380,CDM,74,29,both,,,False
+soccer,Inter Milan,Kristjan Asllani,kristjan-asllani-264699,CDM,73,24,both,,,False
+soccer,Athletic Bilbao,Adama Boiro,adama-boiro-70344,LB,73,24,both,,,False
+soccer,Porto,Dominik Prpić,dominik-prpic-271300,CB,73,22,weight,74,,False
+soccer,Atalanta,Mitchel Bakker,mitchel-bakker-239368,LB,73,26,both,,,False
+soccer,Monaco,Mathys Detourbet,mathys-detourbet-76616,LM,73,19,both,,,False
+soccer,Lyon,Khalis Merah,khalis-merah-80067,CAM,73,19,weight,70,,False
+soccer,Napoli,Jens-Lys Cajuste,jens-lys-cajuste-244472,CDM,73,27,both,,,False
+soccer,Napoli,Jesper Lindstrøm,jesper-lindstrom-245741,RM,73,26,both,,,False
+soccer,Liverpool,Stefan Bajcetic,stefan-bajcetic-271975,CDM,72,21,both,,,False
+soccer,Manchester City,Issa Kaboré,issa-kabore-253052,RB,72,25,both,,,False
+soccer,Tottenham,Kota Takai,kota-takai-264702,CB,72,22,both,,,False
+soccer,Athletic Bilbao,Unai Vencedor,unai-vencedor-247328,CDM,72,25,both,,,False
+soccer,Newcastle,Sean Steur,sean-steur-77152,CM,72,18,weight,72,,False
+soccer,Napoli,Walid Cheddira,walid-cheddira-268511,ST,72,28,both,,,False
+soccer,Fenerbahce,Rodrigo Becão,rodrigo-becao-238621,CB,71,30,both,,,False
+soccer,Lyon,Kaïl Boudache,kail-boudache-83396,RM,71,20,both,,,False
+soccer,Manchester United,Toby Collyer,toby-collyer-268439,CDM,70,22,both,,,False
+soccer,Atletico Madrid,Carlos Martín,carlos-martin-265396,LW,70,24,both,,,False
+soccer,Borussia Dortmund,Samuele Inácio,samuele-inacio-83748,CAM,70,18,weight,71,,False
+soccer,AC Milan,Warren Bondo,warren-bondo-257353,CDM,70,23,both,,,False
+soccer,Fenerbahce,Ognjen Mimović,ognjen-mimovic-77041,RB,70,22,weight,72,,False
+soccer,Lyon,Rémi Himbert,remi-himbert-83214,ST,70,18,weight,70,,False
+soccer,Liverpool,Lewis Koumas,lewis-koumas-70994,LM,69,21,both,,,False
+soccer,AC Milan,Sankhoun Diawara,sankhoun-diawara-74510,CB,69,20,weight,74,,False
+soccer,Lyon,Paul Akouokou,paul-akouokou-246947,CDM,69,28,both,,,False
+soccer,Lyon,Mohamed Ouédraogo,mohamed-ouedraogo-276188,LB,69,23,weight,72,,False
+soccer,Napoli,Costantino Favasuli,costantino-favasuli-277870,RM,69,22,weight,70,,False
+soccer,Inter Milan,Yanis Massolin,yanis-massolin-270341,CM,68,24,weight,78,,False
+soccer,RB Leipzig,Suleman Sani,suleman-sani-83137,LW,68,20,both,,,False
+soccer,Aston Villa,Modou Kéba Cissé,modou-keba-cisse-77524,CB,68,21,weight,75,,False
+soccer,Lyon,Mathys De Carvalho,mathys-de-carvalho-80690,CDM,68,21,weight,72,,False
+soccer,Napoli,Nosa Edward Obaretin,nosa-edward-obaretin-73296,CB,68,23,both,,,False
+soccer,Manchester City,Jeremy Monga,jeremy-monga-78106,LW,67,17,both,,,False
+soccer,Tottenham,Jamie Donley,jamie-donley-278557,CAM,67,21,both,,,False
+soccer,Barcelona,Xavi Espart,xavi-espart-81863,RB,67,19,weight,69,,False
+soccer,Atletico Madrid,Aleksa Purić,aleksa-puric-73558,CB,67,23,both,,,False
+soccer,Borussia Dortmund,Kauã Prates,kaua-prates-83476,LB,67,18,both,,,False
+soccer,Borussia Dortmund,Luca Reggiani,luca-reggiani-83751,CB,67,18,weight,76,,False
+soccer,Galatasaray,Kazımcan Karataş,kaz-mcan-karatas-262607,LB,67,23,weight,72,,False
+soccer,Lyon,Mahamadou Diawara,mahamadou-diawara-278789,CM,67,21,both,,,False
+soccer,Manchester United,Daniel Gore,daniel-gore-268443,CM,66,22,both,,,False
+soccer,Manchester City,Joshua Wilson-Esbrand,joshua-wilson-esbrand-264681,LB,66,23,both,,,False
+soccer,Tottenham,George Abbott,george-abbott-74862,CM,66,21,both,,,False
+soccer,Chelsea,Shumaira Mheuka,shumaira-mheuka-77540,ST,66,18,both,,,False
+soccer,Barcelona,Álvaro Cortés,alvaro-cortes-75746,CB,66,21,both,,,False
+soccer,Borussia Dortmund,Mathis Albert,mathis-albert-80873,LM,66,17,weight,70,,False
+soccer,AC Milan,Kevin Zeroli,kevin-zeroli-278351,CM,66,21,both,,,False
+soccer,Athletic Bilbao,Selton,selton-82124,CAM,66,19,weight,73,,False
+soccer,Stuttgart,Jeremy Arévalo Mera,jeremy-277742,ST,66,21,both,,,False
+soccer,Atalanta,Federico Zuccon,federico-zuccon-277769,CM,66,23,both,,,False
+soccer,Lyon,Steeve Kango,steeve-kango-84357,RB,66,19,both,,,False
+soccer,Liverpool,Calvin Ramsay,calvin-ramsay-252897,RB,65,23,both,,,False
+soccer,Manchester United,Shea Lacey,shea-lacey-278124,RM,65,19,weight,66,,False
+soccer,Manchester United,Chido Obi,chido-obi-77354,ST,65,18,both,,,False
+soccer,Manchester City,Jaden Heskey,jaden-heskey-83205,CM,65,20,both,,,False
+soccer,Tottenham,Dane Scarlett,dane-scarlett-261025,ST,65,22,both,,,False
+soccer,Real Madrid,Alexis Ciria,alexis-ciria-88073,LW,65,18,both,,,False
+soccer,Atletico Madrid,Javi Boñar,javi-bonar-82681,RB,65,21,both,,,False
+soccer,Inter Milan,Luka Topalovič,luka-topalovic-76429,CM,65,20,both,,,False
+soccer,AC Milan,Christian Comotto,christian-comotto-80597,CM,65,18,both,,,False
+soccer,PSG,Alessandro Longoni,alessandro-longoni-86857,GK,65,18,both,,,False
+soccer,Roma,Mattia Mannini,mattia-mannini-80075,RB,65,20,both,,,False
+soccer,Aston Villa,George Hemmings,george-hemmings-82350,CDM,65,19,both,,,False
+soccer,Aston Villa,Jamaldeen Jimoh-Aloba,jamaldeen-jimoh-aloba-76255,CAM,65,20,both,,,False
+soccer,Aston Villa,Tommi O'Reilly,tommi-oreilly-267849,RM,65,22,both,,,False
+soccer,Aston Villa,Bradley Burrowes,bradley-burrowes-80816,RM,65,18,both,,,False
+soccer,Aston Villa,Triston Rowe,triston-rowe-78113,RB,65,20,both,,,False
+soccer,Monaco,Yann Lienard,yann-lienard-271661,GK,65,23,both,,,False
+soccer,Napoli,Lorenzo Sgarbi,lorenzo-sgarbi-73333,ST,65,25,both,,,False
+soccer,Manchester United,Diego León,diego-leon-74142,LB,64,19,both,,,False
+soccer,Tottenham,Tyrese Hall,tyrese-hall-72284,CAM,64,21,both,,,False
+soccer,Tottenham,Oliver Irow,oliver-irow-83028,LM,64,20,both,,,False
+soccer,Barcelona,Guille Fernández,guille-fernandez-75068,CM,64,18,both,,,False
+soccer,Atletico Madrid,Iker Luque,iker-luque-82937,RW,64,21,weight,66,,False
+soccer,Bayern Munich,Felipe Chávez,felipe-chavez-82814,CM,64,19,both,,,False
+soccer,PSG,Yoram Zague,yoram-zague-70766,RB,64,20,both,,,False
+soccer,PSG,Dimitri Lucea,dimitri-lucea-85652,CB,64,19,both,,,False
+soccer,Galatasaray,Can Armando Güner,can-armando-guner-83745,RW,64,18,weight,70,,False
+soccer,Stuttgart,Mirza Ćatović,mirza-catovic-76087,CDM,64,19,both,,,False
+soccer,RB Leipzig,Ayodele Thomas,ayodele-thomas-83629,LW,64,19,both,,,False
+soccer,Aston Villa,Josh Feeney,josh-feeney-268550,CB,64,21,both,,,False
+soccer,Lyon,Adil Hamdani,adil-hamdani-82335,LM,64,17,both,,,False
+soccer,Lyon,Alejandro Gomes Rodríguez,alejandro-gomes-rodriguez-78145,ST,64,18,both,,,False
+soccer,Manchester United,Ethan Wheatley,ethan-wheatley-71973,ST,63,20,both,,,False
+soccer,Arsenal,Tommy Setford,tommy-setford-74892,GK,63,20,both,,,False
+soccer,Atletico Madrid,Dani Martinez,dani-martinez-82755,CB,63,22,weight,73,,False
+soccer,Atletico Madrid,Miguel Cubo,miguel-cubo-85338,ST,63,18,both,,,False
+soccer,Roma,Antonio Arena,antonio-arena-79095,ST,63,17,weight,74,,False
+soccer,Porto,Bernardo Lima,bernardo-lima-85894,CM,63,18,both,,,False
+soccer,Benfica,Daniel Banjaqui,daniel-banjaqui-83401,RB,63,18,weight,69,,False
+soccer,Benfica,Jaden Umeh,jaden-umeh-279144,LW,63,18,both,,,False
+soccer,Benfica,Anísio,anisio-83402,ST,63,18,weight,70,,False
+soccer,Aston Villa,Ben Broggio,ben-broggio-75767,RM,63,19,both,,,False
+soccer,Monaco,Pape Cabral,pape-cabral-81663,CDM,63,19,both,,,False
+soccer,Tottenham,Callum Olusesi,callum-olusesi-75770,CM,62,19,both,,,False
+soccer,Tottenham,Alfie Dorrington,alfie-dorrington-279117,CB,62,21,both,,,False
+soccer,Tottenham,Jun'ai Byfield,junai-byfield-81899,CB,62,17,both,,,False
+soccer,Borussia Dortmund,Mussa Kaba,mussa-kaba-78577,CDM,62,17,weight,77,,False
+soccer,Benfica,Miguel Figueiredo,miguel-figueiredo-87512,CM,62,18,weight,72,,False
+soccer,Newcastle,Park Seung Soo,park-seung-soo-71236,LW,62,19,both,,,False
+soccer,Monaco,Ilane Touré,ilane-toure-82978,RB,62,20,weight,71,,False
+soccer,Borussia Dortmund,Enzo dos Santos,enzo-dos-santos-86362,CM,61,17,both,,,False
+soccer,Al Nassr,Haydeer Abdulkareem,haydeer-abdulkareem-83620,CM,61,22,weight,75,,False
+soccer,Al Nassr,Raghid Al Najjar,raghid-al-najjar-245502,GK,61,30,both,,,False
+soccer,Benfica,José Neto,jose-neto-82744,LB,61,18,weight,72,,False
+soccer,Fenerbahce,Amara Diouf,amara-diouf-86604,LM,60,18,both,,,False
+soccer,RB Leipzig,Joyeux Masanka Bungi,joyeux-masanka-bungi-80096,LM,60,19,both,,,False
+soccer,Porto,André Miranda,andre-miranda-81515,RW,60,19,both,,,False
+soccer,Newcastle,Leo Shahar,leo-shahar-72281,RB,60,19,both,,,False
+soccer,Manchester United,Dermot Mee,dermot-mee-268415,GK,59,23,weight,72,,False
+soccer,Bayern Munich,Maycon Cardozo,maycon-cardozo-84386,RM,59,18,both,,,False
+soccer,Inter Miami,Dániel Pintér,daniel-pinter-81554,LW,59,19,weight,71,,False
+soccer,RB Leipzig,Benno Kaltefleiter,benno-kaltefleiter-82847,CDM,59,18,weight,74,,False
+soccer,RB Leipzig,Samba Konaté,samba-konate-82689,ST,59,17,weight,74,,False
+soccer,Aston Villa,Aidan Borland,aidan-borland-82934,CM,59,19,both,,,False
+soccer,Newcastle,Sean Neave,sean-neave-77791,ST,59,19,both,,,False
+soccer,Stuttgart,Ertugrul Yigit,ertugrul-yigit-87017,CM,58,17,both,,,False
+soccer,Al Nassr,Saad Haqawi,saad-haqawi-74974,ST,55,21,weight,70,,False
+soccer,Al Nassr,Bassam Hazazi,bassam-hazazi-75472,CM,51,21,both,,,False
+soccer,Al Nassr,Mubarak Al Buainain,mubarak-al-buainain-75203,GK,51,21,weight,73,,False

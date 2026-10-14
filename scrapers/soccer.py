@@ -24,8 +24,8 @@ from __future__ import annotations
 import json
 import re
 
-from .common import (DATA_DIR, Fetcher, key_for, log, soup, text, to_int,
-                     write_dataset)
+from .common import (DATA_DIR, Fetcher, key_for, log, page_text, soup, text,
+                     to_int, write_dataset)
 
 BASE = "https://www.fcratings.com"
 
@@ -66,29 +66,32 @@ def _roster(page) -> list[dict]:
         if len(cells) < 3:
             continue
 
-        slug = None
-        for anchor in cells[1].find_all("a", href=True):
-            match = PLAYER_HREF.search(anchor["href"])
-            if match and not any(f"/{p}/" in anchor["href"] for p in SKIP_PATHS):
-                slug = match.group(1)
-                break
-        if slug is None:
+        # The cell holds several links to the same player page: a flag, an
+        # avatar, and the name. For players with no photo the avatar is their
+        # initials ("TS"), which a naive read of the cell text folds into the
+        # name ("TS Tommy Setford"), so take the longest link text instead.
+        player_links = [a for a in cells[1].find_all("a", href=True)
+                        if PLAYER_HREF.search(a["href"])
+                        and not any(f"/{skip}/" in a["href"] for skip in SKIP_PATHS)]
+        if not player_links:
             continue
+        slug = PLAYER_HREF.search(player_links[0]["href"]).group(1)
+        labels = [text(a) for a in player_links if text(a)]
+        name = max(labels, key=len) if labels else None
 
-        # Cells read 'OVR 87', 'PAC 80', … so strip the repeated label.
+        # Cells read 'OVR 87', 'PAC 80', ... so strip the repeated label.
         values = {}
         for header, cell in zip(headers[2:], cells[2:]):
             values[header.lower()] = to_int(text(cell))
 
-        name = text(cells[1])
-        positions = re.findall(r"\b(GK|RB|LB|CB|RWB|LWB|CDM|CM|CAM|RM|LM|RW|LW|CF|ST)\b",
-                               name)
-        for position in positions:
-            name = re.sub(r"\s*\b" + position + r"\b", "", name)
+        # Positions are their own links, which beats pattern-matching the text.
+        positions = [text(a) for a
+                     in cells[1].find_all("a", href=re.compile(r"/positions/"))
+                     if text(a)]
 
         players.append({
             "slug": slug,
-            "name": name.strip() or None,
+            "name": (name or "").strip() or None,
             "positions": positions,
             "position": positions[0] if positions else None,
             "overall": values.pop("ovr", None),
@@ -96,6 +99,41 @@ def _roster(page) -> list[dict]:
         })
 
     return players
+
+
+def _bio(page) -> dict:
+    """Preferred foot, skill moves and weak foot, which fcratings states in prose.
+
+    'He is left-footed.' / 'rated 91 overall in FC 27, with ... 3-Star Skill
+    Moves, and 3-Star Weak Foot.'
+
+    Skill moves feed Creativity as stars x 20 (so 5 stars -> 100), putting them
+    on the same 0-100 footing as every other attribute. fcratings publishes no
+    height or weight; those come from ESPN via scrapers/espn.py.
+    """
+    body = page_text(page)
+
+    foot = None
+    match = re.search(r"\bis (left|right)-footed", body, re.I)
+    if match:
+        foot = match.group(1).capitalize()
+
+    skill_moves = weak_foot = None
+    match = re.search(r"(\d)-Star Skill Moves", body, re.I)
+    if match:
+        skill_moves = int(match.group(1))
+    match = re.search(r"(\d)-Star Weak Foot", body, re.I)
+    if match:
+        weak_foot = int(match.group(1))
+
+    age = None
+    match = re.search(r"(\d{1,2})-year-old", body)
+    if match:
+        age = int(match.group(1))
+
+    return {"preferred_foot": foot, "skill_moves": skill_moves,
+            "weak_foot": weak_foot, "age": age,
+            "height_in": None, "weight_lb": None}
 
 
 def _player(page) -> dict:
@@ -131,7 +169,8 @@ def _player(page) -> dict:
             overall = to_int(sibling)
             break
 
-    return {"overall": overall, "categories": categories, "attributes": attributes}
+    return {"overall": overall, "categories": categories,
+            "attributes": attributes, "bio": _bio(page)}
 
 
 def run(refresh: bool = False, club_limit: int | None = None) -> dict:
@@ -188,6 +227,7 @@ def run(refresh: bool = False, club_limit: int | None = None) -> dict:
 
             players_out.append({
                 "unrated": not detail["attributes"],
+                **detail["bio"],
                 "slug": entry["slug"],
                 "name": entry["name"],
                 "team": club["name"],
@@ -198,7 +238,12 @@ def run(refresh: bool = False, club_limit: int | None = None) -> dict:
                 "overall": entry["overall"] or detail["overall"],
                 "card_ratings": entry["card_ratings"],
                 "category_ratings": detail["categories"],
-                "attributes": {k: v["value"] for k, v in detail["attributes"].items()},
+                "attributes": {
+                    **{k: v["value"] for k, v in detail["attributes"].items()},
+                    # Stars x 20 so skill moves sit on the same 0-100 scale.
+                    **({"skill_moves_stars": detail["bio"]["skill_moves"] * 20}
+                       if detail["bio"]["skill_moves"] is not None else {}),
+                },
             })
 
     payload = {

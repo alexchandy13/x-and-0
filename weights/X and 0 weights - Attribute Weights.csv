@@ -1,0 +1,50 @@
+,Coordination,Agility,Explosiveness,Creativity,Stamina,Strength,Processing,Acrobatics,Intensity,Composure,Height,Weight,Hand/Foot,Total,Sport
+Quarterback,9,7,7,10,7,6,10,6,9,10,2,2,Either,85,FB
+Halfback,5,10,9,6,5,8,9,9,9,7,1,2,Either,80,FB
+Center Midfielder,9,10,6,9,10,2,9,6,7,9,1,1,Either,79,SC
+Point Guard,9,9,9,10,9,2,8,10,1,9,2,1,Either,79,BK
+Central Attacking Midfielder,9,10,7,10,10,1,10,6,2,10,1,1,Either,77,SC
+Central Defensive Midfielder,8,9,5,8,10,3,9,4,8,10,1,1,Either,76,SC
+Left Winger,9,10,8,9,10,1,8,7,3,4,1,1,Right,71,SC
+Right Winger,9,10,8,9,10,1,8,7,3,4,1,1,Left,71,SC
+Striker,8,8,5,8,8,4,7,9,4,8,1,1,Either,71,SC
+Shooting Guard,8,7,7,8,9,3,6,10,4,4,3,1,Either,70,BK
+Right Centerback,7,7,6,4,8,4,7,8,8,8,2,1,Either,70,SC
+Left Centerback,7,7,6,4,8,4,7,8,8,8,2,1,Either,70,SC
+Right Fullback,8,8,8,5,10,2,7,5,9,4,1,1,Right,68,SC
+Left Fullback,8,8,8,5,10,2,7,5,9,4,1,1,Left,68,SC
+X Cornerback,4,10,10,2,5,4,8,10,7,7,1,1,Either,69,FB
+Z Cornerback,4,10,10,2,5,4,8,10,7,7,1,1,Either,69,FB
+Shortstop,10,7,7,7,3,2,10,7,4,10,1,1,Right,69,FB
+Middle Linebacker,3,5,7,3,4,9,7,8,10,6,2,4,Either,68,FB
+Left Defensive End,3,8,8,5,4,10,7,3,10,2,3,4,Either,67,FB
+Right Defensive End,3,8,8,5,4,10,7,3,10,2,3,4,Either,67,FB
+X Wide Receiver,7,10,10,7,6,3,3,10,3,5,1,1,Either,66,FB
+Z Wide Receiver,7,10,10,7,6,3,3,10,3,5,1,1,Either,66,FB
+Strong Safety,3,7,10,3,4,7,7,10,8,4,1,2,Either,66,BS
+Small Forward,7,6,8,7,8,4,6,9,3,2,4,1,Either,65,BK
+Tight End,6,5,6,3,4,8,4,8,8,4,3,3,Either,62,FB
+Second Baseman,10,7,5,5,3,2,10,5,2,10,1,1,Right,61,BS
+Third Baseman,10,6,4,3,2,4,10,4,6,10,1,1,Right,61,BS
+Centerfielder,10,5,8,4,2,2,10,7,2,9,1,1,Either,61,BS
+Left Tackle,3,5,4,1,6,10,7,1,10,5,4,5,Either,61,FB
+Free Safety,3,7,10,2,4,5,7,10,6,4,1,1,Either,60,FB
+Catcher,10,6,3,3,4,3,10,2,9,10,1,1,Either,62,BS
+Right Outside Linebacker,1,6,9,4,4,9,4,5,9,3,2,4,Either,60,FB
+Left Outside Linebacker,1,6,9,4,4,9,4,5,9,3,2,4,Either,60,FB
+Right Tackle,3,5,4,1,6,10,7,1,10,3,4,5,Either,59,FB
+Goalkeeper,6,4,3,1,2,1,8,10,10,9,4,1,Either,59,SC
+Power Forward,6,4,4,6,8,6,6,8,2,2,5,2,Either,59,BK
+Center Offensive Line,3,4,3,1,5,10,6,1,10,6,3,5,Either,57,FB
+Fullback,4,7,6,2,4,9,4,3,10,2,1,3,Either,55,FB
+Center,4,2,3,3,8,8,1,6,7,4,5,3,Either,54,BK
+Starting Pitcher,10,1,3,3,6,5,2,1,9,10,3,1,Either,54,BS
+Rightfielder,9,3,3,1,2,6,10,4,2,9,1,1,Either,51,BS
+Left Guard,2,3,3,1,5,10,5,1,10,2,3,5,Either,50,FB
+Right Guard,2,3,3,1,5,10,5,1,10,2,3,5,Either,50,FB
+Left Defensive Tackle,1,4,5,1,5,10,2,1,10,1,3,5,Either,48,FB
+Right Defensive Tackle,1,4,5,1,5,10,2,1,10,1,3,5,Either,48,FB
+Leftfielder,9,3,2,1,2,3,10,4,2,9,1,1,Either,47,BS
+First Baseman,9,2,1,1,1,6,10,1,2,9,2,1,Either,45,BS
+Designated Hitter,9,1,1,1,1,6,10,1,2,9,1,1,Either,43,BS
+Closer,9,1,2,1,1,2,1,2,10,10,1,1,Either,41,BS

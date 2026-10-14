@@ -512,7 +512,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 80,
+      "weight_lb": 219,
+      "espn_name": "Jalen Johnson"
     },
     {
       "slug": "nickeil-alexander-walker",
@@ -567,7 +570,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Nickeil Alexander-Walker"
     },
     {
       "slug": "cj-mccollum",
@@ -622,7 +628,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 75,
+      "weight_lb": 190,
+      "espn_name": "CJ McCollum"
     },
     {
       "slug": "dyson-daniels",
@@ -677,7 +686,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 79,
+      "weight_lb": 199,
+      "espn_name": "Dyson Daniels"
     },
     {
       "slug": "onyeka-okongwu",
@@ -731,7 +743,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Onyeka Okongwu"
     },
     {
       "slug": "luguentz-dort",
@@ -786,7 +801,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 76,
+      "weight_lb": 220,
+      "espn_name": "Luguentz Dort"
     },
     {
       "slug": "aaron-wiggins",
@@ -841,7 +859,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Aaron Wiggins"
     },
     {
       "slug": "jock-landale",
@@ -895,7 +916,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 83,
+      "weight_lb": 255,
+      "espn_name": "Jock Landale"
     },
     {
       "slug": "dorian-finney-smith",
@@ -950,7 +974,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Dorian Finney-Smith"
     },
     {
       "slug": "kingston-flemings",
@@ -1005,7 +1032,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 75,
+      "weight_lb": 183,
+      "espn_name": "Kingston Flemings"
     },
     {
       "slug": "corey-kispert",
@@ -1060,7 +1090,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 78,
+      "weight_lb": 224,
+      "espn_name": "Corey Kispert"
     },
     {
       "slug": "asa-newell",
@@ -1115,7 +1148,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 83,
+      "weight_lb": 224,
+      "espn_name": "Asa Newell"
     },
     {
       "slug": "mouhamed-gueye",
@@ -1170,7 +1206,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 83,
+      "weight_lb": 210,
+      "espn_name": "Mouhamed Gueye"
     },
     {
       "slug": "jalen-wilson",
@@ -1225,7 +1264,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Jalen Wilson"
     },
     {
       "slug": "zuby-ejiofor",
@@ -1280,7 +1322,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 80,
+      "weight_lb": 245,
+      "espn_name": "Zuby Ejiofor"
     },
     {
       "slug": "henri-veesaar",
@@ -1335,7 +1380,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 84,
+      "weight_lb": 227,
+      "espn_name": "Henri Veesaar"
     },
     {
       "slug": "rayj-dennis",
@@ -1390,7 +1438,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 74,
+      "weight_lb": 180,
+      "espn_name": "RayJ Dennis"
     },
     {
       "slug": "keshon-gilbert",
@@ -1445,7 +1496,10 @@
       },
       "unrated": false,
       "team": "Atlanta Hawks",
-      "team_slug": "atlanta-hawks"
+      "team_slug": "atlanta-hawks",
+      "height_in": 76,
+      "weight_lb": 200,
+      "espn_name": "Keshon Gilbert"
     },
     {
       "slug": "jayson-tatum",
@@ -1500,7 +1554,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 80,
+      "weight_lb": 224,
+      "espn_name": "Jayson Tatum"
     },
     {
       "slug": "derrick-white",
@@ -1555,7 +1612,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 76,
+      "weight_lb": 200,
+      "espn_name": "Derrick White"
     },
     {
       "slug": "paul-george",
@@ -1610,7 +1670,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 80,
+      "weight_lb": 221,
+      "espn_name": "Paul George"
     },
     {
       "slug": "payton-pritchard",
@@ -1664,7 +1727,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 74,
+      "weight_lb": 211,
+      "espn_name": "Payton Pritchard"
     },
     {
       "slug": "mitchell-robinson",
@@ -1718,7 +1784,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 84,
+      "weight_lb": 240,
+      "espn_name": "Mitchell Robinson"
     },
     {
       "slug": "neemias-queta",
@@ -1772,7 +1841,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 84,
+      "weight_lb": 260,
+      "espn_name": "Neemias Queta"
     },
     {
       "slug": "sam-hauser",
@@ -1827,7 +1899,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 80,
+      "weight_lb": 221,
+      "espn_name": "Sam Hauser"
     },
     {
       "slug": "mike-conley",
@@ -1881,7 +1956,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 73,
+      "weight_lb": 175,
+      "espn_name": "Mike Conley"
     },
     {
       "slug": "luka-garza",
@@ -1936,7 +2014,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 82,
+      "weight_lb": 243,
+      "espn_name": "Luka Garza"
     },
     {
       "slug": "baylor-scheierman",
@@ -1991,7 +2072,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 78,
+      "weight_lb": 213,
+      "espn_name": "Baylor Scheierman"
     },
     {
       "slug": "hugo-gonzalez",
@@ -2046,7 +2130,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 78,
+      "weight_lb": 205,
+      "espn_name": "Hugo Gonzalez"
     },
     {
       "slug": "jordan-walsh",
@@ -2101,7 +2188,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 79,
+      "weight_lb": 208,
+      "espn_name": "Jordan Walsh"
     },
     {
       "slug": "ron-harper-jr",
@@ -2156,7 +2246,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 77,
+      "weight_lb": 233,
+      "espn_name": "Ron Harper Jr."
     },
     {
       "slug": "chris-cenac-jr",
@@ -2211,7 +2304,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 83,
+      "weight_lb": 240,
+      "espn_name": "Chris Cenac Jr."
     },
     {
       "slug": "amari-williams",
@@ -2266,7 +2362,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 84,
+      "weight_lb": 262,
+      "espn_name": "Amari Williams"
     },
     {
       "slug": "dillon-mitchell",
@@ -2321,7 +2420,10 @@
       },
       "unrated": false,
       "team": "Boston Celtics",
-      "team_slug": "boston-celtics"
+      "team_slug": "boston-celtics",
+      "height_in": 80,
+      "weight_lb": 210,
+      "espn_name": "Dillon Mitchell"
     },
     {
       "slug": "michael-porter-jr",
@@ -2376,7 +2478,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 82,
+      "weight_lb": 218,
+      "espn_name": "Michael Porter Jr."
     },
     {
       "slug": "julius-randle",
@@ -2431,7 +2536,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Julius Randle"
     },
     {
       "slug": "keon-ellis",
@@ -2486,7 +2594,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 76,
+      "weight_lb": 175,
+      "espn_name": "Keon Ellis"
     },
     {
       "slug": "noah-clowney",
@@ -2541,7 +2652,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 82,
+      "weight_lb": 210,
+      "espn_name": "Noah Clowney"
     },
     {
       "slug": "nolan-traore",
@@ -2596,7 +2710,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 75,
+      "weight_lb": 185,
+      "espn_name": "Nolan Traore"
     },
     {
       "slug": "egor-demin",
@@ -2651,7 +2768,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 80,
+      "weight_lb": 200,
+      "espn_name": "Egor Demin"
     },
     {
       "slug": "dayron-sharpe",
@@ -2705,7 +2825,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 82,
+      "weight_lb": 265,
+      "espn_name": "Day'Ron Sharpe"
     },
     {
       "slug": "danny-wolf",
@@ -2760,7 +2883,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 83,
+      "weight_lb": 250,
+      "espn_name": "Danny Wolf"
     },
     {
       "slug": "terance-mann",
@@ -2815,7 +2941,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Terance Mann"
     },
     {
       "slug": "mikel-brown-jr",
@@ -2870,7 +2999,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 77,
+      "weight_lb": 180,
+      "espn_name": "Mikel Brown Jr."
     },
     {
       "slug": "josh-minott",
@@ -2925,7 +3057,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 80,
+      "weight_lb": 205,
+      "espn_name": "Josh Minott"
     },
     {
       "slug": "moritz-wagner",
@@ -2980,7 +3115,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 83,
+      "weight_lb": 245,
+      "espn_name": "Moritz Wagner"
     },
     {
       "slug": "ben-saraf",
@@ -3035,7 +3173,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 78,
+      "weight_lb": 200,
+      "espn_name": "Ben Saraf"
     },
     {
       "slug": "drake-powell",
@@ -3090,7 +3231,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 77,
+      "weight_lb": 195,
+      "espn_name": "Drake Powell"
     },
     {
       "slug": "chaney-johnson",
@@ -3145,7 +3289,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 80,
+      "weight_lb": 225,
+      "espn_name": "Chaney Johnson"
     },
     {
       "slug": "grant-nelson",
@@ -3200,7 +3347,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 83,
+      "weight_lb": 230,
+      "espn_name": "Grant Nelson"
     },
     {
       "slug": "joshua-jefferson",
@@ -3255,7 +3405,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 80,
+      "weight_lb": 246,
+      "espn_name": "Joshua Jefferson"
     },
     {
       "slug": "tyler-bilodeau",
@@ -3310,7 +3463,10 @@
       },
       "unrated": false,
       "team": "Brooklyn Nets",
-      "team_slug": "brooklyn-nets"
+      "team_slug": "brooklyn-nets",
+      "height_in": 80,
+      "weight_lb": 228,
+      "espn_name": "Tyler Bilodeau"
     },
     {
       "slug": "brandon-miller",
@@ -3365,7 +3521,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 79,
+      "weight_lb": 200,
+      "espn_name": "Brandon Miller"
     },
     {
       "slug": "kon-knueppel",
@@ -3420,7 +3579,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Kon Knueppel"
     },
     {
       "slug": "naz-reid",
@@ -3475,7 +3637,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 81,
+      "weight_lb": 264,
+      "espn_name": "Naz Reid"
     },
     {
       "slug": "coby-white",
@@ -3530,7 +3695,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 76,
+      "weight_lb": 195,
+      "espn_name": "Coby White"
     },
     {
       "slug": "grayson-allen",
@@ -3585,7 +3753,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 75,
+      "weight_lb": 198,
+      "espn_name": "Grayson Allen"
     },
     {
       "slug": "moussa-diabate",
@@ -3640,7 +3811,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 82,
+      "weight_lb": 210,
+      "espn_name": "Moussa Diabate"
     },
     {
       "slug": "ryan-kalkbrenner",
@@ -3694,7 +3868,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 85,
+      "weight_lb": 256,
+      "espn_name": "Ryan Kalkbrenner"
     },
     {
       "slug": "dennis-schroder",
@@ -3749,7 +3926,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 73,
+      "weight_lb": 175,
+      "espn_name": "Dennis Schroder"
     },
     {
       "slug": "royce-oneale",
@@ -3804,7 +3984,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 78,
+      "weight_lb": 226,
+      "espn_name": "Royce O'Neale"
     },
     {
       "slug": "sion-james",
@@ -3859,7 +4042,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 77,
+      "weight_lb": 220,
+      "espn_name": "Sion James"
     },
     {
       "slug": "grant-williams",
@@ -3914,7 +4100,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 79,
+      "weight_lb": 236,
+      "espn_name": "Grant Williams"
     },
     {
       "slug": "tidjane-salaun",
@@ -3969,7 +4158,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 82,
+      "weight_lb": 207,
+      "espn_name": "Tidjane Salaun"
     },
     {
       "slug": "liam-mcneeley",
@@ -4024,7 +4216,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 79,
+      "weight_lb": 210,
+      "espn_name": "Liam McNeeley"
     },
     {
       "slug": "pat-connaughton",
@@ -4079,7 +4274,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 77,
+      "weight_lb": 209,
+      "espn_name": "Pat Connaughton"
     },
     {
       "slug": "hannes-steinbach",
@@ -4134,7 +4332,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 82,
+      "weight_lb": 248,
+      "espn_name": "Hannes Steinbach"
     },
     {
       "slug": "pj-hall",
@@ -4189,7 +4390,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 80,
+      "weight_lb": 245,
+      "espn_name": "PJ Hall"
     },
     {
       "slug": "christian-anderson",
@@ -4243,7 +4447,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 73,
+      "weight_lb": 180,
+      "espn_name": "Christian Anderson"
     },
     {
       "slug": "kylan-boswell",
@@ -4297,7 +4504,10 @@
       },
       "unrated": false,
       "team": "Charlotte Hornets",
-      "team_slug": "charlotte-hornets"
+      "team_slug": "charlotte-hornets",
+      "height_in": 73,
+      "weight_lb": 226,
+      "espn_name": "Kylan Boswell"
     },
     {
       "slug": "michael-ajayi",
@@ -4406,7 +4616,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 76,
+      "weight_lb": 215,
+      "espn_name": "Norman Powell"
     },
     {
       "slug": "josh-giddey",
@@ -4461,7 +4674,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 79,
+      "weight_lb": 216,
+      "espn_name": "Josh Giddey"
     },
     {
       "slug": "matas-buzelis",
@@ -4516,7 +4732,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 80,
+      "weight_lb": 209,
+      "espn_name": "Matas Buzelis"
     },
     {
       "slug": "nicolas-claxton",
@@ -4570,7 +4789,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 83,
+      "weight_lb": 215,
+      "espn_name": "Nic Claxton"
     },
     {
       "slug": "tre-jones",
@@ -4624,7 +4846,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 73,
+      "weight_lb": 185,
+      "espn_name": "Tre Jones"
     },
     {
       "slug": "caleb-wilson",
@@ -4679,7 +4904,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 81,
+      "weight_lb": 211,
+      "espn_name": "Caleb Wilson"
     },
     {
       "slug": "jalen-smith",
@@ -4734,7 +4962,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Jalen Smith"
     },
     {
       "slug": "zach-collins",
@@ -4788,7 +5019,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Zach Collins"
     },
     {
       "slug": "isaac-okoro",
@@ -4843,7 +5077,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 76,
+      "weight_lb": 225,
+      "espn_name": "Isaac Okoro"
     },
     {
       "slug": "patrick-williams",
@@ -4898,7 +5135,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Patrick Williams"
     },
     {
       "slug": "leonard-miller",
@@ -4953,7 +5193,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 82,
+      "weight_lb": 220,
+      "espn_name": "Leonard Miller"
     },
     {
       "slug": "buddy-hield",
@@ -5008,7 +5251,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 76,
+      "weight_lb": 220,
+      "espn_name": "Buddy Hield"
     },
     {
       "slug": "noa-essengue",
@@ -5063,7 +5309,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 83,
+      "weight_lb": 206,
+      "espn_name": "Noa Essengue"
     },
     {
       "slug": "jordan-hawkins",
@@ -5118,7 +5367,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Jordan Hawkins"
     },
     {
       "slug": "dailyn-swain",
@@ -5173,7 +5425,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 79,
+      "weight_lb": 211,
+      "espn_name": "Dailyn Swain"
     },
     {
       "slug": "tobe-awaka",
@@ -5227,7 +5482,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 80,
+      "weight_lb": 255,
+      "espn_name": "Tobe Awaka"
     },
     {
       "slug": "jaylin-sellers",
@@ -5281,7 +5539,10 @@
       },
       "unrated": false,
       "team": "Chicago Bulls",
-      "team_slug": "chicago-bulls"
+      "team_slug": "chicago-bulls",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Jaylin Sellers"
     },
     {
       "slug": "donovan-mitchell",
@@ -5336,7 +5597,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 74,
+      "weight_lb": 215,
+      "espn_name": "Donovan Mitchell"
     },
     {
       "slug": "james-harden",
@@ -5391,7 +5655,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 77,
+      "weight_lb": 220,
+      "espn_name": "James Harden"
     },
     {
       "slug": "evan-mobley",
@@ -5446,7 +5713,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 83,
+      "weight_lb": 215,
+      "espn_name": "Evan Mobley"
     },
     {
       "slug": "jarrett-allen",
@@ -5500,7 +5770,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 81,
+      "weight_lb": 243,
+      "espn_name": "Jarrett Allen"
     },
     {
       "slug": "peyton-watson",
@@ -5555,7 +5828,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 80,
+      "weight_lb": 200,
+      "espn_name": "Peyton Watson"
     },
     {
       "slug": "sam-merrill",
@@ -5610,7 +5886,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 76,
+      "weight_lb": 205,
+      "espn_name": "Sam Merrill"
     },
     {
       "slug": "jaylon-tyson",
@@ -5665,7 +5944,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Jaylon Tyson"
     },
     {
       "slug": "mario-hezonja",
@@ -5720,7 +6002,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 80,
+      "weight_lb": 220,
+      "espn_name": "Mario Hezonja"
     },
     {
       "slug": "thomas-bryant",
@@ -5774,7 +6059,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 81,
+      "weight_lb": 248,
+      "espn_name": "Thomas Bryant"
     },
     {
       "slug": "craig-porter",
@@ -5828,7 +6116,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 73,
+      "weight_lb": 180,
+      "espn_name": "Craig Porter Jr."
     },
     {
       "slug": "naeqwan-tomlin",
@@ -5883,7 +6174,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 80,
+      "weight_lb": 210,
+      "espn_name": "Nae'Qwan Tomlin"
     },
     {
       "slug": "tyrese-proctor",
@@ -5938,7 +6232,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 76,
+      "weight_lb": 185,
+      "espn_name": "Tyrese Proctor"
     },
     {
       "slug": "meleek-thomas",
@@ -5993,7 +6290,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 75,
+      "weight_lb": 190,
+      "espn_name": "Meleek Thomas"
     },
     {
       "slug": "ernest-udeh-jr",
@@ -6047,7 +6347,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 83,
+      "weight_lb": 266,
+      "espn_name": "Ernest Udeh Jr."
     },
     {
       "slug": "tristan-enaruna",
@@ -6102,7 +6405,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 80,
+      "weight_lb": 220,
+      "espn_name": "Tristan Enaruna"
     },
     {
       "slug": "riley-minix",
@@ -6157,7 +6463,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 79,
+      "weight_lb": 230,
+      "espn_name": "Riley Minix"
     },
     {
       "slug": "khalifa-diop",
@@ -6212,7 +6521,10 @@
       },
       "unrated": false,
       "team": "Cleveland Cavaliers",
-      "team_slug": "cleveland-cavaliers"
+      "team_slug": "cleveland-cavaliers",
+      "height_in": 83,
+      "weight_lb": 231,
+      "espn_name": "Khalifa Diop"
     },
     {
       "slug": "kyrie-irving",
@@ -6267,7 +6579,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 74,
+      "weight_lb": 195,
+      "espn_name": "Kyrie Irving"
     },
     {
       "slug": "cooper-flagg",
@@ -6322,7 +6637,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 81,
+      "weight_lb": 205,
+      "espn_name": "Cooper Flagg"
     },
     {
       "slug": "pj-washington",
@@ -6377,7 +6695,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 79,
+      "weight_lb": 230,
+      "espn_name": "P.J. Washington"
     },
     {
       "slug": "dereck-lively-ii",
@@ -6431,7 +6752,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 85,
+      "weight_lb": 230,
+      "espn_name": "Dereck Lively II"
     },
     {
       "slug": "naji-marshall",
@@ -6486,7 +6810,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Naji Marshall"
     },
     {
       "slug": "daniel-gafford",
@@ -6540,7 +6867,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 82,
+      "weight_lb": 265,
+      "espn_name": "Daniel Gafford"
     },
     {
       "slug": "santi-aldama",
@@ -6595,7 +6925,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 84,
+      "weight_lb": 215,
+      "espn_name": "Santi Aldama"
     },
     {
       "slug": "zaccharie-risacher",
@@ -6650,7 +6983,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 80,
+      "weight_lb": 200,
+      "espn_name": "Zaccharie Risacher"
     },
     {
       "slug": "max-christie",
@@ -6705,7 +7041,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Max Christie"
     },
     {
       "slug": "marcus-sasser",
@@ -6760,7 +7099,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 73,
+      "weight_lb": 195,
+      "espn_name": "Marcus Sasser"
     },
     {
       "slug": "morez-johnson-jr",
@@ -6815,7 +7157,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Morez Johnson Jr."
     },
     {
       "slug": "dwight-powell",
@@ -6869,7 +7214,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Dwight Powell"
     },
     {
       "slug": "caleb-martin",
@@ -6924,7 +7272,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Caleb Martin"
     },
     {
       "slug": "jett-howard",
@@ -6979,7 +7330,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Jett Howard"
     },
     {
       "slug": "tarik-biberovic",
@@ -7034,7 +7388,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 79,
+      "weight_lb": 218,
+      "espn_name": "Tarik Biberovic"
     },
     {
       "slug": "moussa-cisse",
@@ -7088,7 +7445,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 83,
+      "weight_lb": 220,
+      "espn_name": "Moussa Cisse"
     },
     {
       "slug": "john-poulakidas",
@@ -7143,7 +7503,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 78,
+      "weight_lb": 205,
+      "espn_name": "John Poulakidas"
     },
     {
       "slug": "sergio-de-larrea",
@@ -7198,7 +7561,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 79,
+      "weight_lb": 202,
+      "espn_name": "Sergio de Larrea"
     },
     {
       "slug": "tobi-lawal",
@@ -7253,7 +7619,10 @@
       },
       "unrated": false,
       "team": "Dallas Mavericks",
-      "team_slug": "dallas-mavericks"
+      "team_slug": "dallas-mavericks",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Tobi Lawal"
     },
     {
       "slug": "nikola-jokic",
@@ -7307,7 +7676,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 83,
+      "weight_lb": 284,
+      "espn_name": "Nikola Jokic"
     },
     {
       "slug": "jamal-murray",
@@ -7362,7 +7734,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 76,
+      "weight_lb": 215,
+      "espn_name": "Jamal Murray"
     },
     {
       "slug": "aaron-gordon",
@@ -7417,7 +7792,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 80,
+      "weight_lb": 235,
+      "espn_name": "Aaron Gordon"
     },
     {
       "slug": "demar-derozan",
@@ -7472,7 +7850,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "DeMar DeRozan"
     },
     {
       "slug": "cameron-johnson",
@@ -7527,7 +7908,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 80,
+      "weight_lb": 210,
+      "espn_name": "Cameron Johnson"
     },
     {
       "slug": "christian-braun",
@@ -7582,7 +7966,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Christian Braun"
     },
     {
       "slug": "marvin-bagley-iii",
@@ -7637,7 +8024,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 82,
+      "weight_lb": 235,
+      "espn_name": "Marvin Bagley III"
     },
     {
       "slug": "julian-strawther",
@@ -7692,7 +8082,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 78,
+      "weight_lb": 205,
+      "espn_name": "Julian Strawther"
     },
     {
       "slug": "tyus-jones",
@@ -7746,7 +8139,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 72,
+      "weight_lb": 196,
+      "espn_name": "Tyus Jones"
     },
     {
       "slug": "cameron-whitmore",
@@ -7801,7 +8197,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Cam Whitmore"
     },
     {
       "slug": "spencer-jones",
@@ -7856,7 +8255,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Spencer Jones"
     },
     {
       "slug": "ryan-nembhard",
@@ -7910,7 +8312,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 71,
+      "weight_lb": 180,
+      "espn_name": "Ryan Nembhard"
     },
     {
       "slug": "zeke-nnaji",
@@ -7965,7 +8370,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Zeke Nnaji"
     },
     {
       "slug": "daron-holmes",
@@ -8020,7 +8428,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 81,
+      "weight_lb": 225,
+      "espn_name": "DaRon Holmes II"
     },
     {
       "slug": "alpha-diallo",
@@ -8075,7 +8486,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 79,
+      "weight_lb": 210,
+      "espn_name": "Alpha Diallo"
     },
     {
       "slug": "trevon-brazile",
@@ -8130,7 +8544,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 82,
+      "weight_lb": 220,
+      "espn_name": "Trevon Brazile"
     },
     {
       "slug": "bryce-hopkins",
@@ -8185,7 +8602,10 @@
       },
       "unrated": false,
       "team": "Denver Nuggets",
-      "team_slug": "denver-nuggets"
+      "team_slug": "denver-nuggets",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Bryce Hopkins"
     },
     {
       "slug": "cade-cunningham",
@@ -8240,7 +8660,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Cade Cunningham"
     },
     {
       "slug": "jalen-duren",
@@ -8294,7 +8717,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 82,
+      "weight_lb": 250,
+      "espn_name": "Jalen Duren"
     },
     {
       "slug": "ausar-thompson",
@@ -8349,7 +8775,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 79,
+      "weight_lb": 205,
+      "espn_name": "Ausar Thompson"
     },
     {
       "slug": "john-collins",
@@ -8404,7 +8833,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 81,
+      "weight_lb": 226,
+      "espn_name": "John Collins"
     },
     {
       "slug": "daniss-jenkins",
@@ -8459,7 +8891,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 76,
+      "weight_lb": 165,
+      "espn_name": "Daniss Jenkins"
     },
     {
       "slug": "duncan-robinson",
@@ -8514,7 +8949,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 79,
+      "weight_lb": 215,
+      "espn_name": "Duncan Robinson"
     },
     {
       "slug": "isaiah-joe",
@@ -8569,7 +9007,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 76,
+      "weight_lb": 165,
+      "espn_name": "Isaiah Joe"
     },
     {
       "slug": "paul-reed",
@@ -8624,7 +9065,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 81,
+      "weight_lb": 210,
+      "espn_name": "Paul Reed"
     },
     {
       "slug": "kevin-huerter",
@@ -8679,7 +9123,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 78,
+      "weight_lb": 198,
+      "espn_name": "Kevin Huerter"
     },
     {
       "slug": "ronald-holland",
@@ -8734,7 +9181,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 80,
+      "weight_lb": 206,
+      "espn_name": "Ronald Holland II"
     },
     {
       "slug": "javonte-green",
@@ -8789,7 +9239,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Javonte Green"
     },
     {
       "slug": "taurean-prince",
@@ -8844,7 +9297,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 78,
+      "weight_lb": 218,
+      "espn_name": "Taurean Prince"
     },
     {
       "slug": "ebuka-okorie",
@@ -8899,7 +9355,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 74,
+      "weight_lb": 186,
+      "espn_name": "Ebuka Okorie"
     },
     {
       "slug": "isaac-jones",
@@ -8954,7 +9413,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 80,
+      "weight_lb": 245,
+      "espn_name": "Isaac Jones"
     },
     {
       "slug": "elijah-harkless",
@@ -9009,7 +9471,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 75,
+      "weight_lb": 195,
+      "espn_name": "Elijah Harkless"
     },
     {
       "slug": "ugonna-onyenso",
@@ -9063,7 +9528,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 84,
+      "weight_lb": 236,
+      "espn_name": "Ugonna Onyenso"
     },
     {
       "slug": "tolu-smith",
@@ -9118,7 +9586,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 83,
+      "weight_lb": 250,
+      "espn_name": "Tolu Smith"
     },
     {
       "slug": "chaz-lanier",
@@ -9173,7 +9644,10 @@
       },
       "unrated": false,
       "team": "Detroit Pistons",
-      "team_slug": "detroit-pistons"
+      "team_slug": "detroit-pistons",
+      "height_in": 75,
+      "weight_lb": 206,
+      "espn_name": "Chaz Lanier"
     },
     {
       "slug": "stephen-curry",
@@ -9228,7 +9702,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 74,
+      "weight_lb": 185,
+      "espn_name": "Stephen Curry"
     },
     {
       "slug": "jimmy-butler",
@@ -9283,7 +9760,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Jimmy Butler III"
     },
     {
       "slug": "kristaps-porzingis",
@@ -9338,7 +9818,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 86,
+      "weight_lb": 240,
+      "espn_name": "Kristaps Porzingis"
     },
     {
       "slug": "draymond-green",
@@ -9393,7 +9876,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Draymond Green"
     },
     {
       "slug": "brandin-podziemski",
@@ -9448,7 +9934,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 76,
+      "weight_lb": 205,
+      "espn_name": "Brandin Podziemski"
     },
     {
       "slug": "gui-santos",
@@ -9503,7 +9992,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 79,
+      "weight_lb": 185,
+      "espn_name": "Gui Santos"
     },
     {
       "slug": "al-horford",
@@ -9558,7 +10050,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 80,
+      "weight_lb": 240,
+      "espn_name": "Al Horford"
     },
     {
       "slug": "deanthony-melton",
@@ -9613,7 +10108,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 74,
+      "weight_lb": 200,
+      "espn_name": "De'Anthony Melton"
     },
     {
       "slug": "moses-moody",
@@ -9668,7 +10166,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 77,
+      "weight_lb": 211,
+      "espn_name": "Moses Moody"
     },
     {
       "slug": "brandon-williams",
@@ -9723,7 +10224,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 73,
+      "weight_lb": 190,
+      "espn_name": "Brandon Williams"
     },
     {
       "slug": "gary-payton-ii",
@@ -9778,7 +10282,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 74,
+      "weight_lb": 195,
+      "espn_name": "Gary Payton II"
     },
     {
       "slug": "will-richard",
@@ -9833,7 +10340,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 75,
+      "weight_lb": 206,
+      "espn_name": "Will Richard"
     },
     {
       "slug": "yaxel-lendeborg",
@@ -9888,7 +10398,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 81,
+      "weight_lb": 241,
+      "espn_name": "Yaxel Lendeborg"
     },
     {
       "slug": "charles-bassey",
@@ -9942,7 +10455,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 82,
+      "weight_lb": 230,
+      "espn_name": "Charles Bassey"
     },
     {
       "slug": "lj-cryer",
@@ -9996,7 +10512,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 72,
+      "weight_lb": 200,
+      "espn_name": "LJ Cryer"
     },
     {
       "slug": "dalen-terry",
@@ -10051,7 +10570,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 78,
+      "weight_lb": 210,
+      "espn_name": "Dalen Terry"
     },
     {
       "slug": "georges-niang",
@@ -10105,7 +10627,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Georges Niang"
     },
     {
       "slug": "malevy-leons",
@@ -10160,7 +10685,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 81,
+      "weight_lb": 203,
+      "espn_name": "Malevy Leons"
     },
     {
       "slug": "graham-ike",
@@ -10215,7 +10743,10 @@
       },
       "unrated": false,
       "team": "Golden State Warriors",
-      "team_slug": "golden-state-warriors"
+      "team_slug": "golden-state-warriors",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Graham Ike"
     },
     {
       "slug": "kevin-durant",
@@ -10270,7 +10801,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 83,
+      "weight_lb": 240,
+      "espn_name": "Kevin Durant"
     },
     {
       "slug": "alperen-sengun",
@@ -10325,7 +10859,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 83,
+      "weight_lb": 243,
+      "espn_name": "Alperen Sengun"
     },
     {
       "slug": "amen-thompson",
@@ -10380,7 +10917,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 79,
+      "weight_lb": 200,
+      "espn_name": "Amen Thompson"
     },
     {
       "slug": "jabari-smith",
@@ -10435,7 +10975,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 83,
+      "weight_lb": 220,
+      "espn_name": "Jabari Smith Jr."
     },
     {
       "slug": "reed-sheppard",
@@ -10490,7 +11033,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 74,
+      "weight_lb": 185,
+      "espn_name": "Reed Sheppard"
     },
     {
       "slug": "fred-vanvleet",
@@ -10544,7 +11090,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 72,
+      "weight_lb": 197,
+      "espn_name": "Fred VanVleet"
     },
     {
       "slug": "marcus-smart",
@@ -10599,7 +11148,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 75,
+      "weight_lb": 220,
+      "espn_name": "Marcus Smart"
     },
     {
       "slug": "tari-eason",
@@ -10654,7 +11206,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Tari Eason"
     },
     {
       "slug": "steven-adams",
@@ -10708,7 +11263,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 83,
+      "weight_lb": 265,
+      "espn_name": "Steven Adams"
     },
     {
       "slug": "clint-capela",
@@ -10762,7 +11320,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 82,
+      "weight_lb": 256,
+      "espn_name": "Clint Capela"
     },
     {
       "slug": "bogdan-bogdanovic",
@@ -10817,7 +11378,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 77,
+      "weight_lb": 225,
+      "espn_name": "Bogdan Bogdanovic"
     },
     {
       "slug": "jaesean-tate",
@@ -10872,7 +11436,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 76,
+      "weight_lb": 230,
+      "espn_name": "Jae'Sean Tate"
     },
     {
       "slug": "oscar-tshiebwe",
@@ -10927,7 +11494,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 80,
+      "weight_lb": 255,
+      "espn_name": "Oscar Tshiebwe"
     },
     {
       "slug": "julian-phillips",
@@ -10982,7 +11552,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 78,
+      "weight_lb": 198,
+      "espn_name": "Julian Phillips"
     },
     {
       "slug": "bruce-thornton",
@@ -11037,7 +11610,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 72,
+      "weight_lb": 223,
+      "espn_name": "Bruce Thornton"
     },
     {
       "slug": "isaiah-crawford",
@@ -11092,7 +11668,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Isaiah Crawford"
     },
     {
       "slug": "sean-pedulla",
@@ -11146,7 +11725,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 73,
+      "weight_lb": 195,
+      "espn_name": "Sean Pedulla"
     },
     {
       "slug": "quadir-copeland",
@@ -11200,7 +11782,10 @@
       },
       "unrated": false,
       "team": "Houston Rockets",
-      "team_slug": "houston-rockets"
+      "team_slug": "houston-rockets",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Quadir Copeland"
     },
     {
       "slug": "tyrese-haliburton",
@@ -11255,7 +11840,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 77,
+      "weight_lb": 185,
+      "espn_name": "Tyrese Haliburton"
     },
     {
       "slug": "pascal-siakam",
@@ -11310,7 +11898,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 80,
+      "weight_lb": 245,
+      "espn_name": "Pascal Siakam"
     },
     {
       "slug": "ivica-zubac",
@@ -11364,7 +11955,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 84,
+      "weight_lb": 240,
+      "espn_name": "Ivica Zubac"
     },
     {
       "slug": "andrew-nembhard",
@@ -11419,7 +12013,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 76,
+      "weight_lb": 191,
+      "espn_name": "Andrew Nembhard"
     },
     {
       "slug": "tj-mcconnell",
@@ -11473,7 +12070,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 73,
+      "weight_lb": 190,
+      "espn_name": "T.J. McConnell"
     },
     {
       "slug": "kelly-oubre-jr",
@@ -11528,7 +12128,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 80,
+      "weight_lb": 203,
+      "espn_name": "Kelly Oubre Jr."
     },
     {
       "slug": "aaron-nesmith",
@@ -11583,7 +12186,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 77,
+      "weight_lb": 215,
+      "espn_name": "Aaron Nesmith"
     },
     {
       "slug": "obi-toppin",
@@ -11638,7 +12244,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 81,
+      "weight_lb": 220,
+      "espn_name": "Obi Toppin"
     },
     {
       "slug": "jarace-walker",
@@ -11693,7 +12302,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 79,
+      "weight_lb": 235,
+      "espn_name": "Jarace Walker"
     },
     {
       "slug": "jay-huff",
@@ -11747,7 +12359,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 85,
+      "weight_lb": 240,
+      "espn_name": "Jay Huff"
     },
     {
       "slug": "quenton-jackson",
@@ -11802,7 +12417,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 76,
+      "weight_lb": 173,
+      "espn_name": "Quenton Jackson"
     },
     {
       "slug": "ben-sheppard",
@@ -11857,7 +12475,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 78,
+      "weight_lb": 190,
+      "espn_name": "Ben Sheppard"
     },
     {
       "slug": "kobe-brown",
@@ -11912,7 +12533,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 79,
+      "weight_lb": 250,
+      "espn_name": "Kobe Brown"
     },
     {
       "slug": "johnny-furphy",
@@ -11967,7 +12591,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 80,
+      "weight_lb": 200,
+      "espn_name": "Johnny Furphy"
     },
     {
       "slug": "larry-nance-jr",
@@ -12022,7 +12649,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 78,
+      "weight_lb": 245,
+      "espn_name": "Larry Nance Jr."
     },
     {
       "slug": "jalen-slawson",
@@ -12077,7 +12707,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 79,
+      "weight_lb": 215,
+      "espn_name": "Jalen Slawson"
     },
     {
       "slug": "braden-smith",
@@ -12131,7 +12764,10 @@
       },
       "unrated": false,
       "team": "Indiana Pacers",
-      "team_slug": "indiana-pacers"
+      "team_slug": "indiana-pacers",
+      "height_in": 70,
+      "weight_lb": 167,
+      "espn_name": "Braden Smith"
     },
     {
       "slug": "darius-garland",
@@ -12186,7 +12822,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 73,
+      "weight_lb": 192,
+      "espn_name": "Darius Garland"
     },
     {
       "slug": "brandon-ingram",
@@ -12241,7 +12880,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 80,
+      "weight_lb": 190,
+      "espn_name": "Brandon Ingram"
     },
     {
       "slug": "rui-hachimura",
@@ -12296,7 +12938,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 80,
+      "weight_lb": 230,
+      "espn_name": "Rui Hachimura"
     },
     {
       "slug": "max-strus",
@@ -12351,7 +12996,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 77,
+      "weight_lb": 215,
+      "espn_name": "Max Strus"
     },
     {
       "slug": "derrick-jones-jr",
@@ -12406,7 +13054,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 78,
+      "weight_lb": 210,
+      "espn_name": "Derrick Jones Jr."
     },
     {
       "slug": "brook-lopez",
@@ -12460,7 +13111,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 85,
+      "weight_lb": 282,
+      "espn_name": "Brook Lopez"
     },
     {
       "slug": "bradley-beal",
@@ -12515,7 +13169,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 76,
+      "weight_lb": 207,
+      "espn_name": "Bradley Beal"
     },
     {
       "slug": "kris-dunn",
@@ -12570,7 +13227,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 75,
+      "weight_lb": 205,
+      "espn_name": "Kris Dunn"
     },
     {
       "slug": "keaton-wagler",
@@ -12625,7 +13285,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 77,
+      "weight_lb": 188,
+      "espn_name": "Keaton Wagler"
     },
     {
       "slug": "isaiah-jackson",
@@ -12680,7 +13343,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 80,
+      "weight_lb": 205,
+      "espn_name": "Isaiah Jackson"
     },
     {
       "slug": "jordan-miller",
@@ -12735,7 +13401,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 77,
+      "weight_lb": 194,
+      "espn_name": "Jordan Miller"
     },
     {
       "slug": "kobe-sanders",
@@ -12790,7 +13459,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 80,
+      "weight_lb": 207,
+      "espn_name": "Kobe Sanders"
     },
     {
       "slug": "gradey-dick",
@@ -12845,7 +13517,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 79,
+      "weight_lb": 200,
+      "espn_name": "Gradey Dick"
     },
     {
       "slug": "yanic-konan-niederhauser",
@@ -12900,7 +13575,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 83,
+      "weight_lb": 242,
+      "espn_name": "Yanic Konan Niederhauser"
     },
     {
       "slug": "jalen-pickett",
@@ -12955,7 +13633,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 74,
+      "weight_lb": 202,
+      "espn_name": "Jalen Pickett"
     },
     {
       "slug": "yuki-kawamura",
@@ -13064,7 +13745,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Cam Christie"
     },
     {
       "slug": "baba-miller",
@@ -13119,7 +13803,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 83,
+      "weight_lb": 208,
+      "espn_name": "Baba Miller"
     },
     {
       "slug": "nick-martinelli",
@@ -13174,7 +13861,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Clippers",
-      "team_slug": "los-angeles-clippers"
+      "team_slug": "los-angeles-clippers",
+      "height_in": 79,
+      "weight_lb": 224,
+      "espn_name": "Nick Martinelli"
     },
     {
       "slug": "luka-doncic",
@@ -13229,7 +13919,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 80,
+      "weight_lb": 230,
+      "espn_name": "Luka Doncic"
     },
     {
       "slug": "austin-reaves",
@@ -13284,7 +13977,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 77,
+      "weight_lb": 197,
+      "espn_name": "Austin Reaves"
     },
     {
       "slug": "walker-kessler",
@@ -13338,7 +14034,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 86,
+      "weight_lb": 245,
+      "espn_name": "Walker Kessler"
     },
     {
       "slug": "collin-sexton",
@@ -13393,7 +14092,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 75,
+      "weight_lb": 190,
+      "espn_name": "Collin Sexton"
     },
     {
       "slug": "quentin-grimes",
@@ -13448,7 +14150,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 76,
+      "weight_lb": 210,
+      "espn_name": "Quentin Grimes"
     },
     {
       "slug": "jarred-vanderbilt",
@@ -13503,7 +14208,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 80,
+      "weight_lb": 214,
+      "espn_name": "Jarred Vanderbilt"
     },
     {
       "slug": "sandro-mamukelashvili",
@@ -13558,7 +14266,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 81,
+      "weight_lb": 240,
+      "espn_name": "Sandro Mamukelashvili"
     },
     {
       "slug": "ziaire-williams",
@@ -13613,7 +14324,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 81,
+      "weight_lb": 185,
+      "espn_name": "Ziaire Williams"
     },
     {
       "slug": "jake-laravia",
@@ -13668,7 +14382,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 79,
+      "weight_lb": 235,
+      "espn_name": "Jake LaRavia"
     },
     {
       "slug": "dalton-knecht",
@@ -13723,7 +14440,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Dalton Knecht"
     },
     {
       "slug": "matisse-thybulle",
@@ -13778,7 +14498,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 77,
+      "weight_lb": 202,
+      "espn_name": "Matisse Thybulle"
     },
     {
       "slug": "jaden-hardy",
@@ -13833,7 +14556,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 75,
+      "weight_lb": 198,
+      "espn_name": "Jaden Hardy"
     },
     {
       "slug": "cameron-carr",
@@ -13888,7 +14614,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 77,
+      "weight_lb": 184,
+      "espn_name": "Cameron Carr"
     },
     {
       "slug": "kevon-looney",
@@ -13942,7 +14671,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 81,
+      "weight_lb": 222,
+      "espn_name": "Kevon Looney"
     },
     {
       "slug": "bronny-james",
@@ -13997,7 +14729,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 74,
+      "weight_lb": 210,
+      "espn_name": "Bronny James"
     },
     {
       "slug": "adou-thiero",
@@ -14052,7 +14787,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 80,
+      "weight_lb": 220,
+      "espn_name": "Adou Thiero"
     },
     {
       "slug": "chris-manon",
@@ -14107,7 +14845,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 76,
+      "weight_lb": 209,
+      "espn_name": "Chris Manon"
     },
     {
       "slug": "arthur-kaluma",
@@ -14161,7 +14902,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 78,
+      "weight_lb": 223,
+      "espn_name": "Arthur Kaluma"
     },
     {
       "slug": "ak-okereke",
@@ -14215,7 +14959,10 @@
       },
       "unrated": false,
       "team": "Los Angeles Lakers",
-      "team_slug": "los-angeles-lakers"
+      "team_slug": "los-angeles-lakers",
+      "height_in": 79,
+      "weight_lb": 244,
+      "espn_name": "AK Okereke"
     },
     {
       "slug": "ty-jerome",
@@ -14270,7 +15017,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 77,
+      "weight_lb": 195,
+      "espn_name": "Ty Jerome"
     },
     {
       "slug": "cedric-coward",
@@ -14325,7 +15075,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 77,
+      "weight_lb": 206,
+      "espn_name": "Cedric Coward"
     },
     {
       "slug": "zach-edey",
@@ -14379,7 +15132,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 87,
+      "weight_lb": 305,
+      "espn_name": "Zach Edey"
     },
     {
       "slug": "cameron-boozer",
@@ -14434,7 +15190,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 80,
+      "weight_lb": 253,
+      "espn_name": "Cameron Boozer"
     },
     {
       "slug": "jerami-grant",
@@ -14489,7 +15248,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 79,
+      "weight_lb": 213,
+      "espn_name": "Jerami Grant"
     },
     {
       "slug": "jaylen-wells",
@@ -14544,7 +15306,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 79,
+      "weight_lb": 206,
+      "espn_name": "Jaylen Wells"
     },
     {
       "slug": "gregory-jackson-ii",
@@ -14599,7 +15364,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 81,
+      "weight_lb": 210,
+      "espn_name": "GG Jackson"
     },
     {
       "slug": "isaiah-stewart",
@@ -14654,7 +15422,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 80,
+      "weight_lb": 250,
+      "espn_name": "Isaiah Stewart"
     },
     {
       "slug": "cam-spencer",
@@ -14709,7 +15480,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 75,
+      "weight_lb": 205,
+      "espn_name": "Cam Spencer"
     },
     {
       "slug": "olivier-maxence-prosper",
@@ -14764,7 +15538,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 79,
+      "weight_lb": 230,
+      "espn_name": "Olivier-Maxence Prosper"
     },
     {
       "slug": "scotty-pippen-jr",
@@ -14819,7 +15596,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 74,
+      "weight_lb": 170,
+      "espn_name": "Scotty Pippen Jr."
     },
     {
       "slug": "kris-murray",
@@ -14874,7 +15654,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 80,
+      "weight_lb": 218,
+      "espn_name": "Kris Murray"
     },
     {
       "slug": "walter-clayton-jr",
@@ -14929,7 +15712,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 76,
+      "weight_lb": 195,
+      "espn_name": "Walter Clayton Jr."
     },
     {
       "slug": "javon-small",
@@ -14984,7 +15770,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 73,
+      "weight_lb": 190,
+      "espn_name": "Javon Small"
     },
     {
       "slug": "taylor-hendricks",
@@ -15039,7 +15828,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 81,
+      "weight_lb": 215,
+      "espn_name": "Taylor Hendricks"
     },
     {
       "slug": "quinten-post",
@@ -15093,7 +15885,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 84,
+      "weight_lb": 238,
+      "espn_name": "Quinten Post"
     },
     {
       "slug": "jahmai-mashack",
@@ -15148,7 +15943,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 75,
+      "weight_lb": 197,
+      "espn_name": "Jahmai Mashack"
     },
     {
       "slug": "karim-lopez",
@@ -15203,7 +16001,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 80,
+      "weight_lb": 222,
+      "espn_name": "Karim Lopez"
     },
     {
       "slug": "micah-peavy",
@@ -15258,7 +16059,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Micah Peavy"
     },
     {
       "slug": "carson-cooper",
@@ -15312,7 +16116,10 @@
       },
       "unrated": false,
       "team": "Memphis Grizzlies",
-      "team_slug": "memphis-grizzlies"
+      "team_slug": "memphis-grizzlies",
+      "height_in": 83,
+      "weight_lb": 245,
+      "espn_name": "Carson Cooper"
     },
     {
       "slug": "giannis-antetokounmpo",
@@ -15367,7 +16174,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 83,
+      "weight_lb": 243,
+      "espn_name": "Giannis Antetokounmpo"
     },
     {
       "slug": "bam-adebayo",
@@ -15422,7 +16232,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 81,
+      "weight_lb": 260,
+      "espn_name": "Bam Adebayo"
     },
     {
       "slug": "bobby-portis",
@@ -15477,7 +16290,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Bobby Portis"
     },
     {
       "slug": "andrew-wiggins",
@@ -15532,7 +16348,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 79,
+      "weight_lb": 210,
+      "espn_name": "Andrew Wiggins"
     },
     {
       "slug": "tim-hardaway-jr",
@@ -15587,7 +16406,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Tim Hardaway Jr."
     },
     {
       "slug": "pelle-larsson",
@@ -15642,7 +16464,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 77,
+      "weight_lb": 215,
+      "espn_name": "Pelle Larsson"
     },
     {
       "slug": "davion-mitchell",
@@ -15697,7 +16522,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 72,
+      "weight_lb": 210,
+      "espn_name": "Davion Mitchell"
     },
     {
       "slug": "klay-thompson",
@@ -15752,7 +16580,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 77,
+      "weight_lb": 220,
+      "espn_name": "Klay Thompson"
     },
     {
       "slug": "simone-fontecchio",
@@ -15807,7 +16638,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Simone Fontecchio"
     },
     {
       "slug": "nikola-jovic",
@@ -15862,7 +16696,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Nikola Jovic"
     },
     {
       "slug": "dru-smith",
@@ -15917,7 +16754,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 74,
+      "weight_lb": 200,
+      "espn_name": "Dru Smith"
     },
     {
       "slug": "nick-richards",
@@ -15971,7 +16811,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 83,
+      "weight_lb": 245,
+      "espn_name": "Nick Richards"
     },
     {
       "slug": "myron-gardner",
@@ -16026,7 +16869,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 77,
+      "weight_lb": 225,
+      "espn_name": "Myron Gardner"
     },
     {
       "slug": "keshad-johnson",
@@ -16081,7 +16927,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Keshad Johnson"
     },
     {
       "slug": "bez-mbeng",
@@ -16136,7 +16985,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 76,
+      "weight_lb": 185,
+      "espn_name": "Bez Mbeng"
     },
     {
       "slug": "ryan-conwell",
@@ -16191,7 +17043,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 75,
+      "weight_lb": 220,
+      "espn_name": "Ryan Conwell"
     },
     {
       "slug": "vladislav-goldin",
@@ -16245,7 +17100,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 84,
+      "weight_lb": 255,
+      "espn_name": "Vladislav Goldin"
     },
     {
       "slug": "tre-donaldson",
@@ -16299,7 +17157,10 @@
       },
       "unrated": false,
       "team": "Miami Heat",
-      "team_slug": "miami-heat"
+      "team_slug": "miami-heat",
+      "height_in": 74,
+      "weight_lb": 210,
+      "espn_name": "Tre Donaldson"
     },
     {
       "slug": "tyler-herro",
@@ -16354,7 +17215,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Tyler Herro"
     },
     {
       "slug": "ryan-rollins",
@@ -16409,7 +17273,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 75,
+      "weight_lb": 180,
+      "espn_name": "Ryan Rollins"
     },
     {
       "slug": "kevin-porter-jr",
@@ -16464,7 +17331,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 77,
+      "weight_lb": 203,
+      "espn_name": "Kevin Porter Jr."
     },
     {
       "slug": "myles-turner",
@@ -16518,7 +17388,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 83,
+      "weight_lb": 250,
+      "espn_name": "Myles Turner"
     },
     {
       "slug": "kelel-ware",
@@ -16573,7 +17446,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 84,
+      "weight_lb": 250,
+      "espn_name": "Kel'el Ware"
     },
     {
       "slug": "caris-levert",
@@ -16628,7 +17504,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 79,
+      "weight_lb": 205,
+      "espn_name": "Caris LeVert"
     },
     {
       "slug": "jaime-jaquez-jr",
@@ -16683,7 +17562,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 78,
+      "weight_lb": 230,
+      "espn_name": "Jaime Jaquez Jr."
     },
     {
       "slug": "kyle-kuzma",
@@ -16738,7 +17620,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 80,
+      "weight_lb": 221,
+      "espn_name": "Kyle Kuzma"
     },
     {
       "slug": "ousmane-dieng",
@@ -16793,7 +17678,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 81,
+      "weight_lb": 185,
+      "espn_name": "Ousmane Dieng"
     },
     {
       "slug": "aj-green",
@@ -16848,7 +17736,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 76,
+      "weight_lb": 190,
+      "espn_name": "AJ Green"
     },
     {
       "slug": "kasparas-jakucionis",
@@ -16903,7 +17794,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Kasparas Jakucionis"
     },
     {
       "slug": "gary-trent-jr",
@@ -16958,7 +17852,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 77,
+      "weight_lb": 204,
+      "espn_name": "Gary Trent Jr."
     },
     {
       "slug": "brayden-burries",
@@ -17013,7 +17910,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 76,
+      "weight_lb": 215,
+      "espn_name": "Brayden Burries"
     },
     {
       "slug": "jericho-sims",
@@ -17067,7 +17967,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 82,
+      "weight_lb": 250,
+      "espn_name": "Jericho Sims"
     },
     {
       "slug": "kam-jones",
@@ -17122,7 +18025,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 76,
+      "weight_lb": 200,
+      "espn_name": "Kam Jones"
     },
     {
       "slug": "nate-ament",
@@ -17177,7 +18083,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 82,
+      "weight_lb": 211,
+      "espn_name": "Nate Ament"
     },
     {
       "slug": "pete-nance",
@@ -17232,7 +18141,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 81,
+      "weight_lb": 225,
+      "espn_name": "Pete Nance"
     },
     {
       "slug": "cormac-ryan",
@@ -17287,7 +18199,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 77,
+      "weight_lb": 195,
+      "espn_name": "Cormac Ryan"
     },
     {
       "slug": "bogoljub-markovic",
@@ -17342,7 +18257,10 @@
       },
       "unrated": false,
       "team": "Milwaukee Bucks",
-      "team_slug": "milwaukee-bucks"
+      "team_slug": "milwaukee-bucks",
+      "height_in": 83,
+      "weight_lb": 210,
+      "espn_name": "Bogoljub Markovic"
     },
     {
       "slug": "anthony-edwards",
@@ -17397,7 +18315,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 76,
+      "weight_lb": 225,
+      "espn_name": "Anthony Edwards"
     },
     {
       "slug": "lamelo-ball",
@@ -17452,7 +18373,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 79,
+      "weight_lb": 180,
+      "espn_name": "LaMelo Ball"
     },
     {
       "slug": "jaden-mcdaniels",
@@ -17507,7 +18431,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 81,
+      "weight_lb": 185,
+      "espn_name": "Jaden McDaniels"
     },
     {
       "slug": "rudy-gobert",
@@ -17561,7 +18488,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 85,
+      "weight_lb": 258,
+      "espn_name": "Rudy Gobert"
     },
     {
       "slug": "ayo-dosunmu",
@@ -17616,7 +18546,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 76,
+      "weight_lb": 200,
+      "espn_name": "Ayo Dosunmu"
     },
     {
       "slug": "donte-divincenzo",
@@ -17671,7 +18604,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 76,
+      "weight_lb": 203,
+      "espn_name": "Donte DiVincenzo"
     },
     {
       "slug": "terrence-shannon",
@@ -17726,7 +18662,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Terrence Shannon Jr."
     },
     {
       "slug": "trey-lyles",
@@ -17781,7 +18720,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 81,
+      "weight_lb": 234,
+      "espn_name": "Trey Lyles"
     },
     {
       "slug": "bones-hyland",
@@ -17836,7 +18778,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 74,
+      "weight_lb": 169,
+      "espn_name": "Bones Hyland"
     },
     {
       "slug": "cody-williams",
@@ -17891,7 +18836,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 80,
+      "weight_lb": 190,
+      "espn_name": "Cody Williams"
     },
     {
       "slug": "jonathan-kuminga",
@@ -17946,7 +18894,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Jonathan Kuminga"
     },
     {
       "slug": "jaylen-clark",
@@ -18001,7 +18952,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Jaylen Clark"
     },
     {
       "slug": "joan-beringer",
@@ -18055,7 +19009,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 83,
+      "weight_lb": 230,
+      "espn_name": "Joan Beringer"
     },
     {
       "slug": "isaiah-evans",
@@ -18110,7 +19067,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 78,
+      "weight_lb": 186,
+      "espn_name": "Isaiah Evans"
     },
     {
       "slug": "enrique-freeman",
@@ -18165,7 +19125,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 81,
+      "weight_lb": 220,
+      "espn_name": "Enrique Freeman"
     },
     {
       "slug": "zyon-pullin",
@@ -18220,7 +19183,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 76,
+      "weight_lb": 206,
+      "espn_name": "Zyon Pullin"
     },
     {
       "slug": "rocco-zikarsky",
@@ -18274,7 +19240,10 @@
       },
       "unrated": false,
       "team": "Minnesota Timberwolves",
-      "team_slug": "minnesota-timberwolves"
+      "team_slug": "minnesota-timberwolves",
+      "height_in": 87,
+      "weight_lb": 254,
+      "espn_name": "Rocco Zikarsky"
     },
     {
       "slug": "zion-williamson",
@@ -18329,7 +19298,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 78,
+      "weight_lb": 284,
+      "espn_name": "Zion Williamson"
     },
     {
       "slug": "trey-murphy",
@@ -18384,7 +19356,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 80,
+      "weight_lb": 206,
+      "espn_name": "Trey Murphy III"
     },
     {
       "slug": "dejounte-murray",
@@ -18439,7 +19414,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 76,
+      "weight_lb": 180,
+      "espn_name": "Dejounte Murray"
     },
     {
       "slug": "saddiq-bey",
@@ -18494,7 +19472,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Saddiq Bey"
     },
     {
       "slug": "herbert-jones",
@@ -18549,7 +19530,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 79,
+      "weight_lb": 206,
+      "espn_name": "Herbert Jones"
     },
     {
       "slug": "bennedict-mathurin",
@@ -18604,7 +19588,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 77,
+      "weight_lb": 210,
+      "espn_name": "Bennedict Mathurin"
     },
     {
       "slug": "derik-queen",
@@ -18659,7 +19646,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Derik Queen"
     },
     {
       "slug": "jeremiah-fears",
@@ -18714,7 +19704,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 75,
+      "weight_lb": 190,
+      "espn_name": "Jeremiah Fears"
     },
     {
       "slug": "yves-missi",
@@ -18769,7 +19762,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 83,
+      "weight_lb": 235,
+      "espn_name": "Yves Missi"
     },
     {
       "slug": "jordan-poole",
@@ -18824,7 +19820,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 76,
+      "weight_lb": 194,
+      "espn_name": "Jordan Poole"
     },
     {
       "slug": "deandre-jordan",
@@ -18878,7 +19877,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 83,
+      "weight_lb": 265,
+      "espn_name": "DeAndre Jordan"
     },
     {
       "slug": "karlo-matkovic",
@@ -18933,7 +19935,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 82,
+      "weight_lb": 231,
+      "espn_name": "Karlo Matkovic"
     },
     {
       "slug": "trendon-watford",
@@ -18988,7 +19993,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 80,
+      "weight_lb": 237,
+      "espn_name": "Trendon Watford"
     },
     {
       "slug": "bryce-mcgowens",
@@ -19043,7 +20051,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 78,
+      "weight_lb": 190,
+      "espn_name": "Bryce McGowens"
     },
     {
       "slug": "julian-reese",
@@ -19098,7 +20109,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 81,
+      "weight_lb": 252,
+      "espn_name": "Julian Reese"
     },
     {
       "slug": "christian-koloko",
@@ -19152,7 +20166,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 83,
+      "weight_lb": 225,
+      "espn_name": "Christian Koloko"
     },
     {
       "slug": "aj-johnson",
@@ -19207,7 +20224,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 77,
+      "weight_lb": 160,
+      "espn_name": "AJ Johnson"
     },
     {
       "slug": "kobe-bufkin",
@@ -19262,7 +20282,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 76,
+      "weight_lb": 195,
+      "espn_name": "Kobe Bufkin"
     },
     {
       "slug": "jaron-pierre-jr",
@@ -19317,7 +20340,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 78,
+      "weight_lb": 210,
+      "espn_name": "Jaron Pierre Jr."
     },
     {
       "slug": "malik-dia",
@@ -19371,7 +20397,10 @@
       },
       "unrated": false,
       "team": "New Orleans Pelicans",
-      "team_slug": "new-orleans-pelicans"
+      "team_slug": "new-orleans-pelicans",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Malik Dia"
     },
     {
       "slug": "jalen-brunson",
@@ -19425,7 +20454,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 74,
+      "weight_lb": 190,
+      "espn_name": "Jalen Brunson"
     },
     {
       "slug": "karl-anthony-towns",
@@ -19480,7 +20512,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 84,
+      "weight_lb": 248,
+      "espn_name": "Karl-Anthony Towns"
     },
     {
       "slug": "og-anunoby",
@@ -19535,7 +20570,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 79,
+      "weight_lb": 240,
+      "espn_name": "OG Anunoby"
     },
     {
       "slug": "mikal-bridges",
@@ -19590,7 +20628,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 78,
+      "weight_lb": 209,
+      "espn_name": "Mikal Bridges"
     },
     {
       "slug": "josh-hart",
@@ -19645,7 +20686,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 77,
+      "weight_lb": 215,
+      "espn_name": "Josh Hart"
     },
     {
       "slug": "miles-mcbride",
@@ -19700,7 +20744,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 74,
+      "weight_lb": 195,
+      "espn_name": "Miles McBride"
     },
     {
       "slug": "landry-shamet",
@@ -19755,7 +20802,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Landry Shamet"
     },
     {
       "slug": "jose-alvarado",
@@ -19810,7 +20860,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 72,
+      "weight_lb": 179,
+      "espn_name": "Jose Alvarado"
     },
     {
       "slug": "andre-drummond",
@@ -19864,7 +20917,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 83,
+      "weight_lb": 279,
+      "espn_name": "Andre Drummond"
     },
     {
       "slug": "jordan-clarkson",
@@ -19919,7 +20975,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 77,
+      "weight_lb": 194,
+      "espn_name": "Jordan Clarkson"
     },
     {
       "slug": "tyler-kolek",
@@ -19974,7 +21033,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 74,
+      "weight_lb": 195,
+      "espn_name": "Tyler Kolek"
     },
     {
       "slug": "mohamed-diawara",
@@ -20029,7 +21091,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 81,
+      "weight_lb": 225,
+      "espn_name": "Mohamed Diawara"
     },
     {
       "slug": "kevin-mccullar",
@@ -20084,7 +21149,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 78,
+      "weight_lb": 210,
+      "espn_name": "Kevin McCullar Jr."
     },
     {
       "slug": "pacome-dadiet",
@@ -20139,7 +21207,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 81,
+      "weight_lb": 210,
+      "espn_name": "Pacome Dadiet"
     },
     {
       "slug": "tyler-nickel",
@@ -20194,7 +21265,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 80,
+      "weight_lb": 217,
+      "espn_name": "Tyler Nickel"
     },
     {
       "slug": "jaden-akins",
@@ -20249,7 +21323,10 @@
       },
       "unrated": false,
       "team": "New York Knicks",
-      "team_slug": "new-york-knicks"
+      "team_slug": "new-york-knicks",
+      "height_in": 76,
+      "weight_lb": 195,
+      "espn_name": "Jaden Akins"
     },
     {
       "slug": "shai-gilgeous-alexander",
@@ -20304,7 +21381,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 78,
+      "weight_lb": 195,
+      "espn_name": "Shai Gilgeous-Alexander"
     },
     {
       "slug": "chet-holmgren",
@@ -20359,7 +21439,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 85,
+      "weight_lb": 208,
+      "espn_name": "Chet Holmgren"
     },
     {
       "slug": "jalen-williams",
@@ -20414,7 +21497,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 77,
+      "weight_lb": 211,
+      "espn_name": "Jalen Williams"
     },
     {
       "slug": "isaiah-hartenstein",
@@ -20468,7 +21554,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 84,
+      "weight_lb": 250,
+      "espn_name": "Isaiah Hartenstein"
     },
     {
       "slug": "ajay-mitchell",
@@ -20523,7 +21612,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 76,
+      "weight_lb": 190,
+      "espn_name": "Ajay Mitchell"
     },
     {
       "slug": "alex-caruso",
@@ -20578,7 +21670,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 77,
+      "weight_lb": 186,
+      "espn_name": "Alex Caruso"
     },
     {
       "slug": "cason-wallace",
@@ -20633,7 +21728,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 75,
+      "weight_lb": 195,
+      "espn_name": "Cason Wallace"
     },
     {
       "slug": "jared-mccain",
@@ -20688,7 +21786,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 75,
+      "weight_lb": 195,
+      "espn_name": "Jared McCain"
     },
     {
       "slug": "jaylin-williams",
@@ -20742,7 +21843,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 81,
+      "weight_lb": 240,
+      "espn_name": "Jaylin Williams"
     },
     {
       "slug": "kenrich-williams",
@@ -20797,7 +21901,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 79,
+      "weight_lb": 210,
+      "espn_name": "Kenrich Williams"
     },
     {
       "slug": "aday-mara",
@@ -20851,7 +21958,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 87,
+      "weight_lb": 262,
+      "espn_name": "Aday Mara"
     },
     {
       "slug": "nikola-topic",
@@ -20906,7 +22016,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 78,
+      "weight_lb": 200,
+      "espn_name": "Nikola Topic"
     },
     {
       "slug": "thomas-sorber",
@@ -20961,7 +22074,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "Thomas Sorber"
     },
     {
       "slug": "bennett-stirtz",
@@ -21016,7 +22132,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 76,
+      "weight_lb": 190,
+      "espn_name": "Bennett Stirtz"
     },
     {
       "slug": "brooks-barnhizer",
@@ -21071,7 +22190,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 78,
+      "weight_lb": 226,
+      "espn_name": "Brooks Barnhizer"
     },
     {
       "slug": "otega-oweh",
@@ -21126,7 +22248,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 76,
+      "weight_lb": 217,
+      "espn_name": "Otega Oweh"
     },
     {
       "slug": "josh-dix",
@@ -21180,7 +22305,10 @@
       },
       "unrated": false,
       "team": "Oklahoma City Thunder",
-      "team_slug": "oklahoma-city-thunder"
+      "team_slug": "oklahoma-city-thunder",
+      "height_in": 77,
+      "weight_lb": 206,
+      "espn_name": "Josh Dix"
     },
     {
       "slug": "paolo-banchero",
@@ -21235,7 +22363,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 82,
+      "weight_lb": 250,
+      "espn_name": "Paolo Banchero"
     },
     {
       "slug": "franz-wagner",
@@ -21290,7 +22421,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 82,
+      "weight_lb": 220,
+      "espn_name": "Franz Wagner"
     },
     {
       "slug": "desmond-bane",
@@ -21345,7 +22479,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Desmond Bane"
     },
     {
       "slug": "jalen-suggs",
@@ -21400,7 +22537,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 77,
+      "weight_lb": 205,
+      "espn_name": "Jalen Suggs"
     },
     {
       "slug": "anthony-black",
@@ -21455,7 +22595,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 79,
+      "weight_lb": 200,
+      "espn_name": "Anthony Black"
     },
     {
       "slug": "wendell-carter-jr",
@@ -21510,7 +22653,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 82,
+      "weight_lb": 270,
+      "espn_name": "Wendell Carter Jr."
     },
     {
       "slug": "nikola-vucevic",
@@ -21564,7 +22710,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 81,
+      "weight_lb": 260,
+      "espn_name": "Nikola Vucevic"
     },
     {
       "slug": "tristan-da-silva",
@@ -21619,7 +22768,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 80,
+      "weight_lb": 217,
+      "espn_name": "Tristan da Silva"
     },
     {
       "slug": "goga-bitadze",
@@ -21673,7 +22825,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 83,
+      "weight_lb": 250,
+      "espn_name": "Goga Bitadze"
     },
     {
       "slug": "jevon-carter",
@@ -21728,7 +22883,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 72,
+      "weight_lb": 200,
+      "espn_name": "Jevon Carter"
     },
     {
       "slug": "noah-penda",
@@ -21783,7 +22941,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 79,
+      "weight_lb": 215,
+      "espn_name": "Noah Penda"
     },
     {
       "slug": "jonathan-isaac",
@@ -21838,7 +22999,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 82,
+      "weight_lb": 230,
+      "espn_name": "Jonathan Isaac"
     },
     {
       "slug": "jamal-cain",
@@ -21893,7 +23057,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 79,
+      "weight_lb": 191,
+      "espn_name": "Jamal Cain"
     },
     {
       "slug": "jase-richardson",
@@ -21948,7 +23115,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 73,
+      "weight_lb": 180,
+      "espn_name": "Jase Richardson"
     },
     {
       "slug": "malaki-branham",
@@ -22003,7 +23173,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 76,
+      "weight_lb": 180,
+      "espn_name": "Malaki Branham"
     },
     {
       "slug": "colin-castleton",
@@ -22058,7 +23231,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 82,
+      "weight_lb": 250,
+      "espn_name": "Colin Castleton"
     },
     {
       "slug": "izaiyah-nelson",
@@ -22113,7 +23289,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 80,
+      "weight_lb": 219,
+      "espn_name": "Izaiyah Nelson"
     },
     {
       "slug": "alex-morales",
@@ -22168,7 +23347,10 @@
       },
       "unrated": false,
       "team": "Orlando Magic",
-      "team_slug": "orlando-magic"
+      "team_slug": "orlando-magic",
+      "height_in": 78,
+      "weight_lb": 180,
+      "espn_name": "Alex Morales"
     },
     {
       "slug": "tyrese-maxey",
@@ -22223,7 +23405,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 74,
+      "weight_lb": 204,
+      "espn_name": "Tyrese Maxey"
     },
     {
       "slug": "jaylen-brown",
@@ -22278,7 +23463,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 78,
+      "weight_lb": 223,
+      "espn_name": "Jaylen Brown"
     },
     {
       "slug": "lebron-james",
@@ -22333,7 +23521,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 81,
+      "weight_lb": 250,
+      "espn_name": "LeBron James"
     },
     {
       "slug": "joel-embiid",
@@ -22387,7 +23578,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 84,
+      "weight_lb": 270,
+      "espn_name": "Joel Embiid"
     },
     {
       "slug": "vj-edgecombe",
@@ -22442,7 +23636,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 77,
+      "weight_lb": 180,
+      "espn_name": "VJ Edgecombe"
     },
     {
       "slug": "anfernee-simons",
@@ -22497,7 +23694,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 76,
+      "weight_lb": 206,
+      "espn_name": "Anfernee Simons"
     },
     {
       "slug": "dean-wade",
@@ -22552,7 +23752,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 81,
+      "weight_lb": 223,
+      "espn_name": "Dean Wade"
     },
     {
       "slug": "kentavious-caldwell-pope",
@@ -22607,7 +23810,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 77,
+      "weight_lb": 213,
+      "espn_name": "Kentavious Caldwell-Pope"
     },
     {
       "slug": "adem-bona",
@@ -22661,7 +23867,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 82,
+      "weight_lb": 239,
+      "espn_name": "Adem Bona"
     },
     {
       "slug": "dominick-barlow",
@@ -22716,7 +23925,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 81,
+      "weight_lb": 238,
+      "espn_name": "Dominick Barlow"
     },
     {
       "slug": "justin-edwards",
@@ -22771,7 +23983,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 79,
+      "weight_lb": 222,
+      "espn_name": "Justin Edwards"
     },
     {
       "slug": "rayan-rupert",
@@ -22826,7 +24041,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 79,
+      "weight_lb": 207,
+      "espn_name": "Rayan Rupert"
     },
     {
       "slug": "caleb-love",
@@ -22881,7 +24099,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 75,
+      "weight_lb": 214,
+      "espn_name": "Caleb Love"
     },
     {
       "slug": "ariel-hukporti",
@@ -22936,7 +24157,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 84,
+      "weight_lb": 258,
+      "espn_name": "Ariel Hukporti"
     },
     {
       "slug": "jabari-walker",
@@ -22991,7 +24215,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 79,
+      "weight_lb": 240,
+      "espn_name": "Jabari Walker"
     },
     {
       "slug": "labaron-philon-jr",
@@ -23046,7 +24273,10 @@
       },
       "unrated": false,
       "team": "Philadelphia 76ers",
-      "team_slug": "philadelphia-76ers"
+      "team_slug": "philadelphia-76ers",
+      "height_in": 75,
+      "weight_lb": 179,
+      "espn_name": "Labaron Philon Jr."
     },
     {
       "slug": "devin-booker",
@@ -23101,7 +24331,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 77,
+      "weight_lb": 206,
+      "espn_name": "Devin Booker"
     },
     {
       "slug": "dillon-brooks",
@@ -23156,7 +24389,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Dillon Brooks"
     },
     {
       "slug": "jalen-green",
@@ -23211,7 +24447,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 76,
+      "weight_lb": 186,
+      "espn_name": "Jalen Green"
     },
     {
       "slug": "miles-bridges",
@@ -23266,7 +24505,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Miles Bridges"
     },
     {
       "slug": "collin-gillespie",
@@ -23320,7 +24562,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 73,
+      "weight_lb": 195,
+      "espn_name": "Collin Gillespie"
     },
     {
       "slug": "mark-williams",
@@ -23374,7 +24619,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 85,
+      "weight_lb": 240,
+      "espn_name": "Mark Williams"
     },
     {
       "slug": "luke-kennard",
@@ -23429,7 +24677,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 77,
+      "weight_lb": 206,
+      "espn_name": "Luke Kennard"
     },
     {
       "slug": "oso-ighodaro",
@@ -23484,7 +24735,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 83,
+      "weight_lb": 235,
+      "espn_name": "Oso Ighodaro"
     },
     {
       "slug": "pat-spencer",
@@ -23539,7 +24793,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 74,
+      "weight_lb": 205,
+      "espn_name": "Pat Spencer"
     },
     {
       "slug": "jordan-goodwin",
@@ -23594,7 +24851,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 75,
+      "weight_lb": 215,
+      "espn_name": "Jordan Goodwin"
     },
     {
       "slug": "ryan-dunn",
@@ -23649,7 +24909,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 79,
+      "weight_lb": 216,
+      "espn_name": "Ryan Dunn"
     },
     {
       "slug": "rasheer-fleming",
@@ -23704,7 +24967,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 81,
+      "weight_lb": 240,
+      "espn_name": "Rasheer Fleming"
     },
     {
       "slug": "khaman-maluach",
@@ -23758,7 +25024,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 86,
+      "weight_lb": 250,
+      "espn_name": "Khaman Maluach"
     },
     {
       "slug": "jamaree-bouyea",
@@ -23813,7 +25082,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 74,
+      "weight_lb": 180,
+      "espn_name": "Jamaree Bouyea"
     },
     {
       "slug": "haywood-highsmith",
@@ -23868,7 +25140,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 77,
+      "weight_lb": 220,
+      "espn_name": "Haywood Highsmith"
     },
     {
       "slug": "koa-peat",
@@ -23923,7 +25198,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 80,
+      "weight_lb": 245,
+      "espn_name": "Koa Peat"
     },
     {
       "slug": "koby-brea",
@@ -23978,7 +25256,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Koby Brea"
     },
     {
       "slug": "cj-huntley",
@@ -24033,7 +25314,10 @@
       },
       "unrated": false,
       "team": "Phoenix Suns",
-      "team_slug": "phoenix-suns"
+      "team_slug": "phoenix-suns",
+      "height_in": 82,
+      "weight_lb": 230,
+      "espn_name": "CJ Huntley"
     },
     {
       "slug": "deni-avdija",
@@ -24088,7 +25372,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 80,
+      "weight_lb": 228,
+      "espn_name": "Deni Avdija"
     },
     {
       "slug": "damian-lillard",
@@ -24142,7 +25429,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 74,
+      "weight_lb": 200,
+      "espn_name": "Damian Lillard"
     },
     {
       "slug": "ja-morant",
@@ -24197,7 +25487,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 74,
+      "weight_lb": 174,
+      "espn_name": "Ja Morant"
     },
     {
       "slug": "jrue-holiday",
@@ -24252,7 +25545,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 76,
+      "weight_lb": 220,
+      "espn_name": "Jrue Holiday"
     },
     {
       "slug": "donovan-clingan",
@@ -24306,7 +25602,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 86,
+      "weight_lb": 280,
+      "espn_name": "Donovan Clingan"
     },
     {
       "slug": "shaedon-sharpe",
@@ -24361,7 +25660,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 77,
+      "weight_lb": 210,
+      "espn_name": "Shaedon Sharpe"
     },
     {
       "slug": "toumani-camara",
@@ -24416,7 +25718,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 79,
+      "weight_lb": 230,
+      "espn_name": "Toumani Camara"
     },
     {
       "slug": "scoot-henderson",
@@ -24471,7 +25776,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 75,
+      "weight_lb": 207,
+      "espn_name": "Scoot Henderson"
     },
     {
       "slug": "robert-williams-iii",
@@ -24526,7 +25834,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 81,
+      "weight_lb": 249,
+      "espn_name": "Robert Williams III"
     },
     {
       "slug": "vit-krejci",
@@ -24581,7 +25892,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 80,
+      "weight_lb": 195,
+      "espn_name": "Vit Krejci"
     },
     {
       "slug": "sidy-cissoko",
@@ -24636,7 +25950,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 78,
+      "weight_lb": 220,
+      "espn_name": "Sidy Cissoko"
     },
     {
       "slug": "micah-potter",
@@ -24691,7 +26008,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 81,
+      "weight_lb": 248,
+      "espn_name": "Micah Potter"
     },
     {
       "slug": "jeremy-sochan",
@@ -24746,7 +26066,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 80,
+      "weight_lb": 230,
+      "espn_name": "Jeremy Sochan"
     },
     {
       "slug": "branden-carlson",
@@ -24800,7 +26123,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 84,
+      "weight_lb": 220,
+      "espn_name": "Branden Carlson"
     },
     {
       "slug": "yang-hansen",
@@ -24854,7 +26180,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 85,
+      "weight_lb": 270,
+      "espn_name": "Yang Hansen"
     },
     {
       "slug": "john-tonje",
@@ -24909,7 +26238,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 77,
+      "weight_lb": 225,
+      "espn_name": "John Tonje"
     },
     {
       "slug": "chris-youngblood",
@@ -24964,7 +26296,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 76,
+      "weight_lb": 221,
+      "espn_name": "Chris Youngblood"
     },
     {
       "slug": "jayson-kent",
@@ -25019,7 +26354,10 @@
       },
       "unrated": false,
       "team": "Portland Trail Blazers",
-      "team_slug": "portland-trail-blazers"
+      "team_slug": "portland-trail-blazers",
+      "height_in": 80,
+      "weight_lb": 215,
+      "espn_name": "Jayson Kent"
     },
     {
       "slug": "domantas-sabonis",
@@ -25073,7 +26411,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Domantas Sabonis"
     },
     {
       "slug": "zach-lavine",
@@ -25128,7 +26469,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 77,
+      "weight_lb": 200,
+      "espn_name": "Zach LaVine"
     },
     {
       "slug": "malik-monk",
@@ -25183,7 +26527,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 75,
+      "weight_lb": 200,
+      "espn_name": "Malik Monk"
     },
     {
       "slug": "keegan-murray",
@@ -25238,7 +26585,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 80,
+      "weight_lb": 225,
+      "espn_name": "Keegan Murray"
     },
     {
       "slug": "maxime-raynaud",
@@ -25292,7 +26642,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 85,
+      "weight_lb": 250,
+      "espn_name": "Maxime Raynaud"
     },
     {
       "slug": "deandre-hunter",
@@ -25347,7 +26700,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 79,
+      "weight_lb": 221,
+      "espn_name": "De'Andre Hunter"
     },
     {
       "slug": "precious-achiuwa",
@@ -25402,7 +26758,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 80,
+      "weight_lb": 243,
+      "espn_name": "Precious Achiuwa"
     },
     {
       "slug": "nique-clifford",
@@ -25457,7 +26816,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 77,
+      "weight_lb": 175,
+      "espn_name": "Nique Clifford"
     },
     {
       "slug": "darius-acuff-jr",
@@ -25512,7 +26874,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 74,
+      "weight_lb": 186,
+      "espn_name": "Darius Acuff Jr."
     },
     {
       "slug": "ben-simmons",
@@ -25567,7 +26932,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 82,
+      "weight_lb": 240,
+      "espn_name": "Ben Simmons"
     },
     {
       "slug": "dylan-cardwell",
@@ -25622,7 +26990,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 82,
+      "weight_lb": 255,
+      "espn_name": "Dylan Cardwell"
     },
     {
       "slug": "daeqwon-plowden",
@@ -25677,7 +27048,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 78,
+      "weight_lb": 216,
+      "espn_name": "Daeqwon Plowden"
     },
     {
       "slug": "jonathan-mogbo",
@@ -25732,7 +27106,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 81,
+      "weight_lb": 225,
+      "espn_name": "Jonathan Mogbo"
     },
     {
       "slug": "alex-karaban",
@@ -25787,7 +27164,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Alex Karaban"
     },
     {
       "slug": "emanuel-sharp",
@@ -25842,7 +27222,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 75,
+      "weight_lb": 208,
+      "espn_name": "Emanuel Sharp"
     },
     {
       "slug": "adam-flagler",
@@ -25897,7 +27280,10 @@
       },
       "unrated": false,
       "team": "Sacramento Kings",
-      "team_slug": "sacramento-kings"
+      "team_slug": "sacramento-kings",
+      "height_in": 73,
+      "weight_lb": 180,
+      "espn_name": "Adam Flagler"
     },
     {
       "slug": "victor-wembanyama",
@@ -25952,7 +27338,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 88,
+      "weight_lb": 235,
+      "espn_name": "Victor Wembanyama"
     },
     {
       "slug": "stephon-castle",
@@ -26007,7 +27396,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 78,
+      "weight_lb": 215,
+      "espn_name": "Stephon Castle"
     },
     {
       "slug": "dylan-harper",
@@ -26062,7 +27454,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 77,
+      "weight_lb": 215,
+      "espn_name": "Dylan Harper"
     },
     {
       "slug": "deaaron-fox",
@@ -26117,7 +27512,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 75,
+      "weight_lb": 185,
+      "espn_name": "De'Aaron Fox"
     },
     {
       "slug": "tobias-harris",
@@ -26172,7 +27570,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 80,
+      "weight_lb": 226,
+      "espn_name": "Tobias Harris"
     },
     {
       "slug": "devin-vassell",
@@ -26227,7 +27628,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 77,
+      "weight_lb": 200,
+      "espn_name": "Devin Vassell"
     },
     {
       "slug": "keldon-johnson",
@@ -26282,7 +27686,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 77,
+      "weight_lb": 220,
+      "espn_name": "Keldon Johnson"
     },
     {
       "slug": "julian-champagnie",
@@ -26337,7 +27744,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 79,
+      "weight_lb": 217,
+      "espn_name": "Julian Champagnie"
     },
     {
       "slug": "luke-kornet",
@@ -26391,7 +27801,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 85,
+      "weight_lb": 250,
+      "espn_name": "Luke Kornet"
     },
     {
       "slug": "harrison-barnes",
@@ -26446,7 +27859,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 79,
+      "weight_lb": 225,
+      "espn_name": "Harrison Barnes"
     },
     {
       "slug": "carter-bryant",
@@ -26501,7 +27917,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Carter Bryant"
     },
     {
       "slug": "jordan-mclaughlin",
@@ -26555,7 +27974,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 72,
+      "weight_lb": 185,
+      "espn_name": "Jordan McLaughlin"
     },
     {
       "slug": "tarris-reed-jr",
@@ -26609,7 +28031,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 82,
+      "weight_lb": 270,
+      "espn_name": "Tarris Reed Jr."
     },
     {
       "slug": "david-jones-garcia",
@@ -26664,7 +28089,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 76,
+      "weight_lb": 210,
+      "espn_name": "David Jones Garcia"
     },
     {
       "slug": "jayden-quaintance",
@@ -26719,7 +28147,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 82,
+      "weight_lb": 255,
+      "espn_name": "Jayden Quaintance"
     },
     {
       "slug": "taelon-peter",
@@ -26774,7 +28205,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 75,
+      "weight_lb": 185,
+      "espn_name": "Taelon Peter"
     },
     {
       "slug": "jakobi-gillespie",
@@ -26829,7 +28263,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 73,
+      "weight_lb": 180,
+      "espn_name": "Ja'Kobi Gillespie"
     },
     {
       "slug": "maliq-brown",
@@ -26884,7 +28321,10 @@
       },
       "unrated": false,
       "team": "San Antonio Spurs",
-      "team_slug": "san-antonio-spurs"
+      "team_slug": "san-antonio-spurs",
+      "height_in": 81,
+      "weight_lb": 215,
+      "espn_name": "Maliq Brown"
     },
     {
       "slug": "kawhi-leonard",
@@ -26939,7 +28379,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 78,
+      "weight_lb": 225,
+      "espn_name": "Kawhi Leonard"
     },
     {
       "slug": "scottie-barnes",
@@ -26994,7 +28437,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 80,
+      "weight_lb": 237,
+      "espn_name": "Scottie Barnes"
     },
     {
       "slug": "rj-barrett",
@@ -27049,7 +28495,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 78,
+      "weight_lb": 214,
+      "espn_name": "RJ Barrett"
     },
     {
       "slug": "immanuel-quickley",
@@ -27104,7 +28553,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 74,
+      "weight_lb": 190,
+      "espn_name": "Immanuel Quickley"
     },
     {
       "slug": "collin-murray-boyles",
@@ -27159,7 +28611,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 79,
+      "weight_lb": 245,
+      "espn_name": "Collin Murray-Boyles"
     },
     {
       "slug": "jakob-poeltl",
@@ -27213,7 +28668,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 84,
+      "weight_lb": 253,
+      "espn_name": "Jakob Poeltl"
     },
     {
       "slug": "jakobe-walter",
@@ -27268,7 +28726,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 76,
+      "weight_lb": 180,
+      "espn_name": "Ja'Kobe Walter"
     },
     {
       "slug": "jamal-shead",
@@ -27323,7 +28784,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 73,
+      "weight_lb": 200,
+      "espn_name": "Jamal Shead"
     },
     {
       "slug": "jamison-battle",
@@ -27378,7 +28842,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 79,
+      "weight_lb": 220,
+      "espn_name": "Jamison Battle"
     },
     {
       "slug": "kyle-anderson",
@@ -27433,7 +28900,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 80,
+      "weight_lb": 230,
+      "espn_name": "Kyle Anderson"
     },
     {
       "slug": "trayce-jackson-davis",
@@ -27488,7 +28958,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 81,
+      "weight_lb": 245,
+      "espn_name": "Trayce Jackson-Davis"
     },
     {
       "slug": "trey-jemison",
@@ -27542,7 +29015,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 82,
+      "weight_lb": 270,
+      "espn_name": "Trey Jemison III"
     },
     {
       "slug": "allen-graves",
@@ -27597,7 +29073,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 80,
+      "weight_lb": 225,
+      "espn_name": "Allen Graves"
     },
     {
       "slug": "alijah-martin",
@@ -27652,7 +29131,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 74,
+      "weight_lb": 212,
+      "espn_name": "Alijah Martin"
     },
     {
       "slug": "malachi-smith",
@@ -27707,7 +29189,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 76,
+      "weight_lb": 205,
+      "espn_name": "Malachi Smith"
     },
     {
       "slug": "jaden-bradley",
@@ -27762,7 +29247,10 @@
       },
       "unrated": false,
       "team": "Toronto Raptors",
-      "team_slug": "toronto-raptors"
+      "team_slug": "toronto-raptors",
+      "height_in": 75,
+      "weight_lb": 205,
+      "espn_name": "Jaden Bradley"
     },
     {
       "slug": "jaren-jackson-jr",
@@ -27817,7 +29305,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 82,
+      "weight_lb": 242,
+      "espn_name": "Jaren Jackson Jr."
     },
     {
       "slug": "lauri-markkanen",
@@ -27872,7 +29363,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 85,
+      "weight_lb": 240,
+      "espn_name": "Lauri Markkanen"
     },
     {
       "slug": "keyonte-george",
@@ -27927,7 +29421,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 76,
+      "weight_lb": 185,
+      "espn_name": "Keyonte George"
     },
     {
       "slug": "isaiah-collier",
@@ -27982,7 +29479,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 76,
+      "weight_lb": 210,
+      "espn_name": "Isaiah Collier"
     },
     {
       "slug": "brice-sensabaugh",
@@ -28037,7 +29537,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 78,
+      "weight_lb": 235,
+      "espn_name": "Brice Sensabaugh"
     },
     {
       "slug": "darryn-peterson",
@@ -28092,7 +29595,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 77,
+      "weight_lb": 199,
+      "espn_name": "Darryn Peterson"
     },
     {
       "slug": "ace-bailey",
@@ -28147,7 +29653,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 81,
+      "weight_lb": 200,
+      "espn_name": "Ace Bailey"
     },
     {
       "slug": "kyle-filipowski",
@@ -28202,7 +29711,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 83,
+      "weight_lb": 250,
+      "espn_name": "Kyle Filipowski"
     },
     {
       "slug": "jusuf-nurkic",
@@ -28256,7 +29768,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 83,
+      "weight_lb": 290,
+      "espn_name": "Jusuf Nurkic"
     },
     {
       "slug": "jaxson-hayes",
@@ -28311,7 +29826,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 84,
+      "weight_lb": 220,
+      "espn_name": "Jaxson Hayes"
     },
     {
       "slug": "josh-okogie",
@@ -28366,7 +29884,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 76,
+      "weight_lb": 213,
+      "espn_name": "Josh Okogie"
     },
     {
       "slug": "josh-green",
@@ -28421,7 +29942,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 78,
+      "weight_lb": 200,
+      "espn_name": "Josh Green"
     },
     {
       "slug": "sviatoslav-mykhailiuk",
@@ -28476,7 +30000,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 79,
+      "weight_lb": 205,
+      "espn_name": "Svi Mykhailiuk"
     },
     {
       "slug": "blake-hinson",
@@ -28531,7 +30058,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 80,
+      "weight_lb": 230,
+      "espn_name": "Blake Hinson"
     },
     {
       "slug": "mohamed-bamba",
@@ -28585,7 +30115,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 84,
+      "weight_lb": 231,
+      "espn_name": "Mo Bamba"
     },
     {
       "slug": "harrison-ingram",
@@ -28640,7 +30173,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 77,
+      "weight_lb": 230,
+      "espn_name": "Harrison Ingram"
     },
     {
       "slug": "trey-alexander",
@@ -28695,7 +30231,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 77,
+      "weight_lb": 185,
+      "espn_name": "Trey Alexander"
     },
     {
       "slug": "tamar-bates",
@@ -28750,7 +30289,10 @@
       },
       "unrated": false,
       "team": "Utah Jazz",
-      "team_slug": "utah-jazz"
+      "team_slug": "utah-jazz",
+      "height_in": 76,
+      "weight_lb": 195,
+      "espn_name": "Tamar Bates"
     },
     {
       "slug": "anthony-davis",
@@ -28805,7 +30347,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 82,
+      "weight_lb": 253,
+      "espn_name": "Anthony Davis"
     },
     {
       "slug": "trae-young",
@@ -28859,7 +30404,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 74,
+      "weight_lb": 164,
+      "espn_name": "Trae Young"
     },
     {
       "slug": "alexandre-sarr",
@@ -28914,7 +30462,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 84,
+      "weight_lb": 205,
+      "espn_name": "Alex Sarr"
     },
     {
       "slug": "kyshawn-george",
@@ -28969,7 +30520,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 80,
+      "weight_lb": 200,
+      "espn_name": "Kyshawn George"
     },
     {
       "slug": "aj-dybantsa",
@@ -29024,7 +30578,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 81,
+      "weight_lb": 217,
+      "espn_name": "AJ Dybantsa"
     },
     {
       "slug": "deandre-ayton",
@@ -29078,7 +30635,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 84,
+      "weight_lb": 252,
+      "espn_name": "Deandre Ayton"
     },
     {
       "slug": "bilal-coulibaly",
@@ -29133,7 +30693,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 79,
+      "weight_lb": 195,
+      "espn_name": "Bilal Coulibaly"
     },
     {
       "slug": "tre-johnson",
@@ -29188,7 +30751,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 77,
+      "weight_lb": 190,
+      "espn_name": "Tre Johnson"
     },
     {
       "slug": "will-riley",
@@ -29243,7 +30809,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 81,
+      "weight_lb": 180,
+      "espn_name": "Will Riley"
     },
     {
       "slug": "khris-middleton",
@@ -29298,7 +30867,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 79,
+      "weight_lb": 222,
+      "espn_name": "Khris Middleton"
     },
     {
       "slug": "justin-champagnie",
@@ -29353,7 +30925,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 78,
+      "weight_lb": 206,
+      "espn_name": "Justin Champagnie"
     },
     {
       "slug": "bub-carrington",
@@ -29408,7 +30983,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 76,
+      "weight_lb": 190,
+      "espn_name": "Bub Carrington"
     },
     {
       "slug": "tre-mann",
@@ -29463,7 +31041,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 76,
+      "weight_lb": 178,
+      "espn_name": "Tre Mann"
     },
     {
       "slug": "jamir-watkins",
@@ -29518,7 +31099,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 78,
+      "weight_lb": 210,
+      "espn_name": "Jamir Watkins"
     },
     {
       "slug": "tristan-vukcevic",
@@ -29573,7 +31157,10 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 84,
+      "weight_lb": 220,
+      "espn_name": "Tristan Vukcevic"
     },
     {
       "slug": "felix-okpara",
@@ -29627,7 +31214,15 @@
       },
       "unrated": false,
       "team": "Washington Wizards",
-      "team_slug": "washington-wizards"
+      "team_slug": "washington-wizards",
+      "height_in": 82,
+      "weight_lb": 237,
+      "espn_name": "Felix Okpara"
     }
-  ]
+  ],
+  "bio_coverage": {
+    "height": 530,
+    "weight": 530,
+    "players": 532
+  }
 }

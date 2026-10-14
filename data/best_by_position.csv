@@ -1,0 +1,50 @@
+Position,Lineup,NFL_player,NFL_score,FIFA_player,FIFA_score,NBA_player,NBA_score,MLB_player,MLB_score
+Shortstop,MLB,Travis Hunter,111.6,Jude Bellingham,130.0,Giannis Antetokounmpo,115.7,Brice Turang,111.2
+Catcher,MLB,Cooper DeJean,108.2,Jude Bellingham,130.8,Shai Gilgeous-Alexander,110.7,Brice Turang,115.3
+Second Baseman,MLB,Travis Hunter,111.0,Jude Bellingham,130.8,Giannis Antetokounmpo,113.8,Brice Turang,114.3
+Third Baseman,MLB,Cooper DeJean,107.5,Jude Bellingham,125.6,Giannis Antetokounmpo,107.4,Mookie Betts,114.2
+Centerfielder,MLB,Travis Hunter,110.4,Jude Bellingham,125.6,Giannis Antetokounmpo,111.7,Jeremy Peña,114.6
+Starting Pitcher,MLB,Tyler Warren,102.0,Adrien Rabiot,127.0,Shai Gilgeous-Alexander,118.0,Paul Skenes,120.2
+Rightfielder,MLB,Cooper DeJean,107.2,Jude Bellingham,123.2,Giannis Antetokounmpo,106.0,Mookie Betts,124.2
+Leftfielder,MLB,Cooper DeJean,107.4,Jude Bellingham,126.5,Giannis Antetokounmpo,107.2,Mookie Betts,128.0
+First Baseman,MLB,Tyler Warren,103.0,Jude Bellingham,122.4,Shai Gilgeous-Alexander,103.9,Kyle Tucker,130.7
+Designated Hitter,MLB,Cooper DeJean,105.1,Jude Bellingham,122.3,Shai Gilgeous-Alexander,104.0,Mookie Betts,135.4
+Closer,MLB,Cooper DeJean,103.0,Jude Bellingham,125.4,Jayson Tatum,106.8,Bobby Witt Jr.,127.6
+Point Guard,NBA,Travis Hunter,118.6,Jude Bellingham,140.2,Giannis Antetokounmpo,128.5,Bobby Witt Jr.,105.2
+Shooting Guard,NBA,Tetairoa McMillan,114.5,Felix Nmecha,128.1,Giannis Antetokounmpo,130.3,Paul Skenes,101.6
+Small Forward,NBA,Tetairoa McMillan,114.7,Scott McTominay,110.6,Giannis Antetokounmpo,129.3,Paul Skenes,101.2
+Power Forward,NBA,Tyler Warren,100.4,Erling Haaland,88.6,Giannis Antetokounmpo,131.6,Paul Skenes,93.3
+Center,NBA,Aidan Hutchinson,101.9,Erling Haaland,66.5,Giannis Antetokounmpo,128.0,Paul Skenes,95.2
+Quarterback,NFL,Tetairoa McMillan,107.1,Rodri,109.4,Giannis Antetokounmpo,120.7,Paul Skenes,107.1
+Halfback,NFL,Tetairoa McMillan,109.0,Reece James,99.9,Giannis Antetokounmpo,115.7,Bobby Witt Jr.,100.2
+X Cornerback,NFL,Travis Hunter,116.7,Jude Bellingham,125.5,Giannis Antetokounmpo,114.3,Bobby Witt Jr.,103.3
+Z Cornerback,NFL,Travis Hunter,116.7,Jude Bellingham,125.5,Giannis Antetokounmpo,114.3,Bobby Witt Jr.,103.3
+Middle Linebacker,NFL,Tyler Warren,107.5,Erling Haaland,53.5,Giannis Antetokounmpo,105.3,Paul Skenes,101.8
+Left Defensive End,NFL,Tyler Warren,107.8,Erling Haaland,49.9,Giannis Antetokounmpo,104.9,Paul Skenes,98.0
+Right Defensive End,NFL,Tyler Warren,107.8,Erling Haaland,49.9,Giannis Antetokounmpo,104.9,Paul Skenes,98.0
+X Wide Receiver,NFL,Travis Hunter,119.9,Jude Bellingham,133.4,Giannis Antetokounmpo,124.4,Bobby Witt Jr.,103.7
+Z Wide Receiver,NFL,Travis Hunter,119.9,Jude Bellingham,133.4,Giannis Antetokounmpo,124.4,Bobby Witt Jr.,103.7
+Strong Safety,NFL,Tetairoa McMillan,109.8,Scott McTominay,98.4,Giannis Antetokounmpo,114.6,Bobby Witt Jr.,99.7
+Tight End,NFL,Tyler Warren,108.7,Erling Haaland,78.9,Giannis Antetokounmpo,115.1,Paul Skenes,103.9
+Left Tackle,NFL,Derrick Brown,100.9,Erling Haaland,28.1,Nikola Jokic,95.2,Aaron Judge,104.8
+Free Safety,NFL,Travis Hunter,116.8,Jude Bellingham,122.5,Giannis Antetokounmpo,114.9,Corbin Carroll,102.5
+Right Outside Linebacker,NFL,Tyler Warren,108.3,Erling Haaland,52.6,Giannis Antetokounmpo,106.9,Paul Skenes,97.4
+Left Outside Linebacker,NFL,Tyler Warren,108.3,Erling Haaland,52.6,Giannis Antetokounmpo,106.9,Paul Skenes,97.4
+Right Tackle,NFL,Derrick Brown,101.3,Erling Haaland,27.6,Nikola Jokic,95.3,Aaron Judge,103.1
+Center Offensive Line,NFL,Derrick Brown,102.4,Romelu Lukaku,31.0,Nikola Jokic,95.5,Aaron Judge,106.9
+Fullback,NFL,Tyler Warren,108.8,Reece James,75.6,Giannis Antetokounmpo,110.5,Paul Skenes,99.8
+Left Guard,NFL,Derrick Brown,105.3,Ibrahima Konaté,28.7,Nikola Jokic,96.4,Aaron Judge,102.0
+Right Guard,NFL,Derrick Brown,105.3,Ibrahima Konaté,28.7,Nikola Jokic,96.4,Aaron Judge,102.0
+Left Defensive Tackle,NFL,Derrick Brown,104.3,Ibrahima Konaté,27.6,Nikola Jokic,91.2,Aaron Judge,88.8
+Right Defensive Tackle,NFL,Derrick Brown,104.3,Ibrahima Konaté,27.6,Nikola Jokic,91.2,Aaron Judge,88.8
+Center Midfielder,FIFA,Travis Hunter,116.0,Jude Bellingham,141.9,Giannis Antetokounmpo,125.8,Brice Turang,107.5
+Central Attacking Midfielder,FIFA,Travis Hunter,117.5,Jude Bellingham,143.9,Giannis Antetokounmpo,128.1,Brice Turang,109.8
+Central Defensive Midfielder,FIFA,Travis Hunter,114.7,Jude Bellingham,142.0,Giannis Antetokounmpo,124.5,Brice Turang,108.2
+Left Winger,FIFA,Travis Hunter,119.6,Jude Bellingham,143.5,Giannis Antetokounmpo,130.0,Brice Turang,104.6
+Right Winger,FIFA,Travis Hunter,119.6,Raphinha,141.2,Giannis Antetokounmpo,130.0,Brice Turang,104.6
+Striker,FIFA,Travis Hunter,117.0,Jude Bellingham,138.8,Giannis Antetokounmpo,126.4,Bobby Witt Jr.,104.9
+Right Centerback,FIFA,Travis Hunter,114.9,Jude Bellingham,135.1,Giannis Antetokounmpo,121.0,Bobby Witt Jr.,107.3
+Left Centerback,FIFA,Travis Hunter,114.9,Jude Bellingham,135.1,Giannis Antetokounmpo,121.0,Bobby Witt Jr.,107.3
+Right Fullback,FIFA,Travis Hunter,116.1,Jude Bellingham,140.1,Giannis Antetokounmpo,124.3,Bobby Witt Jr.,105.1
+Left Fullback,FIFA,Travis Hunter,116.1,Nuno Mendes,133.3,Giannis Antetokounmpo,124.3,Bobby Witt Jr.,105.1
+Goalkeeper,FIFA,Tetairoa McMillan,105.2,Erling Haaland,100.6,Giannis Antetokounmpo,110.2,Paul Skenes,105.5

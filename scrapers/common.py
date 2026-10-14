@@ -203,3 +203,23 @@ def parse_card_attributes(page) -> tuple[dict, dict]:
             }
 
     return attributes, categories
+
+
+def page_text(page) -> str:
+    """Visible text of a page with scripts/styles removed, whitespace collapsed."""
+    clone = BeautifulSoup(str(page), "html.parser")
+    for node in clone(["script", "style"]):
+        node.decompose()
+    return re.sub(r"\s+", " ", clone.get_text(" ", strip=True))
+
+
+def height_to_inches(feet: int, inches: int) -> int:
+    return feet * 12 + inches
+
+
+def parse_height_inches(text_value: str) -> int | None:
+    """Parse 6'7\" (and 6' 7\") into total inches."""
+    match = re.search(r"(\d)\s*'\s*(\d{1,2})", text_value or "")
+    if not match:
+        return None
+    return height_to_inches(int(match.group(1)), int(match.group(2)))
